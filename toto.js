@@ -1,1 +1,3 @@
-alert "hello"
+Var hello = "hello worold"
+alert(hello)
+
