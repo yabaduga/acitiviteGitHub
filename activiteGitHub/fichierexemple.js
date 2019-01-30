@@ -11,8 +11,8 @@ document.getElementById('menu').innerHTML =de1;
 setTimeout(function(){lancerDes(n+1, callback)}, 200);
 } else {
 callback();
-	//je ne comprend pas commen s'incrémente le n pour aller jusque 8
-	//la fonction avec le callback joue t-elle se role automatiquementq:x
+	/*je ne comprend pas commen s'incrémente le n pour aller jusque 8
+	la fonction avec le callback joue t-elle se role automatiquement*/
 }
 }
  
