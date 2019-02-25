@@ -6,30 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d946c9b-fb41-4707-90eb-809fb54cae8b" name="Default" comment="divers tests sur les tableaux pour isoler les séquences et tests dans les jeux rechercher et mastermind">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/projet3_recherche_jar/projet3-recherche.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/projet3-recherche/com/manuel/jeuRecherche/ArrayExample.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/projet3-recherche/com/manuel/jeuRecherche/combiArray.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/projet3-recherche/com/manuel/jeuRecherche/main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/projet3-recherche/com/manuel/jeuRecherche/testGestString.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/projet3-recherche/com/manuel/jeuRecherche/testtableau.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/projet3_recherche_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/projet3-recherche/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projet3-recherche.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/manuel/jeuRecherche/CsplitTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/manuel/jeuRecherche/PrintArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/manuel/jeuRecherche/combiArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/manuel/jeuRecherche/main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/manuel/jeuRecherche/tab2dim.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/manuel/jeuRecherche/tab2remplit.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/manuel/jeuRecherche/testGetString.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/manuel/jeuRecherche/testtableau.java" />
+    <list default="true" id="2d946c9b-fb41-4707-90eb-809fb54cae8b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/manuel/jeuRecherche/CsplitTest.java" afterPath="$PROJECT_DIR$/src/com/manuel/jeuRecherche/CsplitTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,11 +45,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tab2dim.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tab2dim.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/manuel/jeuRecherche/tab2dim.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="8" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+            <state relative-caret-position="255">
+              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -88,11 +67,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CsplitTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CsplitTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/manuel/jeuRecherche/CsplitTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+              <caret line="19" column="14" lean-forward="false" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -476,7 +455,7 @@
       <workItem from="1551046556506" duration="7409000" />
       <workItem from="1551054011287" duration="487000" />
       <workItem from="1551054523375" duration="662000" />
-      <workItem from="1551123084650" duration="5144000" />
+      <workItem from="1551123084650" duration="6202000" />
     </task>
     <task id="LOCAL-00001" summary="divers tests sur les tableaux pour isoler les séquences et tests dans les jeux rechercher et mastermind">
       <created>1551054775032</created>
@@ -485,11 +464,18 @@
       <option name="project" value="LOCAL" />
       <updated>1551054775032</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="travail sur les tableaux pour assigner les variables combinaison et proposition à des tableaux afin de comprarer chaque &quot;case&quot; du tableau proposition à chaque &quot;case&quot; du tableau combinaison et donner en retour la présence et/ou la présence en place des numéros de la proposition&#10;ex : combnaison=1234 si proposition=1827 =&gt; présent et en place | absent | présent | absent&#10;présent et en place sera symbolisé par O&#10;présent sera symbolisé par -&#10;absent sera symbolisé par X&#10;&#10;pour le jeu recherche cela sera -+= (plus petit, plus grand, ok)">
+      <created>1551128955432</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1551128955432</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13702000" />
+    <option name="totallyTimeSpent" value="14760000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -535,7 +521,8 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="divers tests sur les tableaux pour isoler les séquences et tests dans les jeux rechercher et mastermind" />
-    <option name="LAST_COMMIT_MESSAGE" value="divers tests sur les tableaux pour isoler les séquences et tests dans les jeux rechercher et mastermind" />
+    <MESSAGE value="travail sur les tableaux pour assigner les variables combinaison et proposition à des tableaux afin de comprarer chaque &quot;case&quot; du tableau proposition à chaque &quot;case&quot; du tableau combinaison et donner en retour la présence et/ou la présence en place des numéros de la proposition&#10;ex : combnaison=1234 si proposition=1827 =&gt; présent et en place | absent | présent | absent&#10;présent et en place sera symbolisé par O&#10;présent sera symbolisé par -&#10;absent sera symbolisé par X&#10;&#10;pour le jeu recherche cela sera -+= (plus petit, plus grand, ok)" />
+    <option name="LAST_COMMIT_MESSAGE" value="travail sur les tableaux pour assigner les variables combinaison et proposition à des tableaux afin de comprarer chaque &quot;case&quot; du tableau proposition à chaque &quot;case&quot; du tableau combinaison et donner en retour la présence et/ou la présence en place des numéros de la proposition&#10;ex : combnaison=1234 si proposition=1827 =&gt; présent et en place | absent | présent | absent&#10;présent et en place sera symbolisé par O&#10;présent sera symbolisé par -&#10;absent sera symbolisé par X&#10;&#10;pour le jeu recherche cela sera -+= (plus petit, plus grand, ok)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -800,21 +787,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/manuel/jeuRecherche/CsplitTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/manuel/jeuRecherche/tab2dim.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="255">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/manuel/jeuRecherche/tab2dim.java">
+    <entry file="file://$PROJECT_DIR$/src/com/manuel/jeuRecherche/CsplitTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="8" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-          <folding />
+        <state relative-caret-position="323">
+          <caret line="19" column="14" lean-forward="false" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

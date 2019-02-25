@@ -9,12 +9,14 @@ public class CsplitTest {
                 Scanner sc = new Scanner(System.in);
                 System.out.println("Quelle est la combinaison ? ");
                 int Montab = sc.nextInt();
-               // String Str = new String("WelcometoTutorialspoint.com");
                 String Str = Integer.toString(Montab);
-                System.out.println("Return Value :" );
-
-                for (String retval: Str.split("")) {
-                    System.out.println(retval);
+                String[] tempArray;
+                String delimiter ="";
+                tempArray = Str.split(delimiter);
+                for (int i = 0; i < tempArray.length; i++) {
+                    System.out.println(tempArray[i]);
                 }
+
+              
             }
         }
