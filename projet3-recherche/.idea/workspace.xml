@@ -7,8 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d946c9b-fb41-4707-90eb-809fb54cae8b" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/manuel/jeuRecherche/CsplitTest.java" afterPath="$PROJECT_DIR$/src/com/manuel/jeuRecherche/Combinaison.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/manuel/jeuRecherche/Proposition.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/manuel/jeuRecherche/Combinaison.java" afterPath="$PROJECT_DIR$/src/com/manuel/jeuRecherche/Combinaison.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -67,14 +68,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Combinaison.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Combinaison.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/manuel/jeuRecherche/Combinaison.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="119">
+              <caret line="7" column="51" lean-forward="false" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Proposition.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/manuel/jeuRecherche/Proposition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -147,6 +156,8 @@
         <option value="$PROJECT_DIR$/src/com/manuel/jeuRecherche/testtableau.java" />
         <option value="$PROJECT_DIR$/src/com/manuel/jeuRecherche/tab2remplit.java" />
         <option value="$PROJECT_DIR$/src/com/manuel/jeuRecherche/CsplitTest.java" />
+        <option value="$PROJECT_DIR$/src/com/manuel/jeuRecherche/Combinaison.java" />
+        <option value="$PROJECT_DIR$/src/com/manuel/jeuRecherche/Proposition.java" />
       </list>
     </option>
   </component>
@@ -248,7 +259,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CsplitTest">
+  <component name="RunManager" selected="Application.Proposition">
     <configuration name="CsplitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -257,6 +268,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.manuel.jeuRecherche.CsplitTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="projet3-recherche" />
+      <envs />
+    </configuration>
+    <configuration name="Proposition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.manuel.jeuRecherche.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.manuel.jeuRecherche.Proposition" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -406,39 +436,20 @@
       <module name="projet3-recherche" />
       <envs />
     </configuration>
-    <configuration name="testtableau" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.manuel.jeuRecherche.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.manuel.jeuRecherche.testtableau" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="projet3-recherche" />
-      <envs />
-    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.testtableau" />
-      <item index="1" class="java.lang.String" itemvalue="Application.combiArray" />
-      <item index="2" class="java.lang.String" itemvalue="Application.tab2dim" />
-      <item index="3" class="java.lang.String" itemvalue="Application.tab2remplit" />
-      <item index="4" class="java.lang.String" itemvalue="Application.CsplitTest" />
+      <item index="0" class="java.lang.String" itemvalue="Application.combiArray" />
+      <item index="1" class="java.lang.String" itemvalue="Application.tab2dim" />
+      <item index="2" class="java.lang.String" itemvalue="Application.tab2remplit" />
+      <item index="3" class="java.lang.String" itemvalue="Application.CsplitTest" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Proposition" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.CsplitTest" />
-        <item index="1" class="java.lang.String" itemvalue="Application.tab2remplit" />
-        <item index="2" class="java.lang.String" itemvalue="Application.tab2dim" />
-        <item index="3" class="java.lang.String" itemvalue="Application.combiArray" />
-        <item index="4" class="java.lang.String" itemvalue="Application.testtableau" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Proposition" />
+        <item index="1" class="java.lang.String" itemvalue="Application.CsplitTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.tab2remplit" />
+        <item index="3" class="java.lang.String" itemvalue="Application.tab2dim" />
+        <item index="4" class="java.lang.String" itemvalue="Application.combiArray" />
       </list>
     </recent_temporary>
   </component>
@@ -455,7 +466,7 @@
       <workItem from="1551046556506" duration="7409000" />
       <workItem from="1551054011287" duration="487000" />
       <workItem from="1551054523375" duration="662000" />
-      <workItem from="1551123084650" duration="6856000" />
+      <workItem from="1551123084650" duration="7061000" />
     </task>
     <task id="LOCAL-00001" summary="divers tests sur les tableaux pour isoler les séquences et tests dans les jeux rechercher et mastermind">
       <created>1551054775032</created>
@@ -478,15 +489,21 @@
       <option name="project" value="LOCAL" />
       <updated>1551129478839</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="modification du code pour split la combinaison dans un tableau tempArray">
+      <created>1551130338398</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1551130338398</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15414000" />
+    <option name="totallyTimeSpent" value="15619000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -497,7 +514,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2228261" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2228261" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22717391" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -805,11 +822,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/manuel/jeuRecherche/Combinaison.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="119">
+          <caret line="7" column="51" lean-forward="false" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/manuel/jeuRecherche/Proposition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
