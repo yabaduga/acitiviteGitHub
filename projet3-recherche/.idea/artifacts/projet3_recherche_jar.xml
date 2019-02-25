@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="projet3-recherche:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/projet3_recherche_jar</output-path>
+    <root id="archive" name="projet3-recherche.jar">
+      <element id="module-output" name="projet3-recherche" />
+    </root>
+  </artifact>
+</component>
