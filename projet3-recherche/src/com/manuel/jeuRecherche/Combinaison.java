@@ -2,7 +2,7 @@ package com.manuel.jeuRecherche;
 import java.io.*;
 import java.util.Scanner;
 
-public class CsplitTest {
+public class Combinaison {
 
 
             public static void main(String args[]) {
@@ -17,6 +17,6 @@ public class CsplitTest {
                     System.out.println(tempArray[i]);
                 }
 
-              
+
             }
         }

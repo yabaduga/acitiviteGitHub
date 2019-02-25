@@ -7,8 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d946c9b-fb41-4707-90eb-809fb54cae8b" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/manuel/jeuRecherche/CsplitTest.java" afterPath="$PROJECT_DIR$/src/com/manuel/jeuRecherche/Combinaison.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/manuel/jeuRecherche/CsplitTest.java" afterPath="$PROJECT_DIR$/src/com/manuel/jeuRecherche/CsplitTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -67,11 +67,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CsplitTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/manuel/jeuRecherche/CsplitTest.java">
+      <file leaf-file-name="Combinaison.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/manuel/jeuRecherche/Combinaison.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="14" lean-forward="false" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+            <state relative-caret-position="68">
+              <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -455,7 +455,7 @@
       <workItem from="1551046556506" duration="7409000" />
       <workItem from="1551054011287" duration="487000" />
       <workItem from="1551054523375" duration="662000" />
-      <workItem from="1551123084650" duration="6202000" />
+      <workItem from="1551123084650" duration="6856000" />
     </task>
     <task id="LOCAL-00001" summary="divers tests sur les tableaux pour isoler les séquences et tests dans les jeux rechercher et mastermind">
       <created>1551054775032</created>
@@ -471,11 +471,18 @@
       <option name="project" value="LOCAL" />
       <updated>1551128955432</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="modification du code pour split la combinaison dans un tableau tempArray">
+      <created>1551129478839</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1551129478839</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14760000" />
+    <option name="totallyTimeSpent" value="15414000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -522,7 +529,8 @@
     </ignored-roots>
     <MESSAGE value="divers tests sur les tableaux pour isoler les séquences et tests dans les jeux rechercher et mastermind" />
     <MESSAGE value="travail sur les tableaux pour assigner les variables combinaison et proposition à des tableaux afin de comprarer chaque &quot;case&quot; du tableau proposition à chaque &quot;case&quot; du tableau combinaison et donner en retour la présence et/ou la présence en place des numéros de la proposition&#10;ex : combnaison=1234 si proposition=1827 =&gt; présent et en place | absent | présent | absent&#10;présent et en place sera symbolisé par O&#10;présent sera symbolisé par -&#10;absent sera symbolisé par X&#10;&#10;pour le jeu recherche cela sera -+= (plus petit, plus grand, ok)" />
-    <option name="LAST_COMMIT_MESSAGE" value="travail sur les tableaux pour assigner les variables combinaison et proposition à des tableaux afin de comprarer chaque &quot;case&quot; du tableau proposition à chaque &quot;case&quot; du tableau combinaison et donner en retour la présence et/ou la présence en place des numéros de la proposition&#10;ex : combnaison=1234 si proposition=1827 =&gt; présent et en place | absent | présent | absent&#10;présent et en place sera symbolisé par O&#10;présent sera symbolisé par -&#10;absent sera symbolisé par X&#10;&#10;pour le jeu recherche cela sera -+= (plus petit, plus grand, ok)" />
+    <MESSAGE value="modification du code pour split la combinaison dans un tableau tempArray" />
+    <option name="LAST_COMMIT_MESSAGE" value="modification du code pour split la combinaison dans un tableau tempArray" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -795,10 +803,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/manuel/jeuRecherche/CsplitTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/manuel/jeuRecherche/Combinaison.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="14" lean-forward="false" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        <state relative-caret-position="68">
+          <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
