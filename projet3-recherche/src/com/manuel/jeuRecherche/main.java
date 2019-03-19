@@ -15,9 +15,9 @@ public class main {
         System.out.println("le nombre de chiffres de la combinaison est : " + NbMaxComb +" et votre combinaison est " + vCombinaison);
 
 
-        // On convertit la variable vCombinaison en string pour l'affecter � une chaine longueurcombinaison afin
-        // de r�cup�rer la longueur de la combinaison saisie par le d�fenseur afin de tester qu'il respecte la
-        // longueur qu'il a ins�r� en valeur
+        // On convertit la variable vCombinaison en string pour l'affecter à une chaine longueurcombinaison afin
+        // de récupérer la longueur de la combinaison saisie par le défenseur afin de tester qu'il respecte la
+        // longueur qu'il a inséré en valeur
 
         longueurcombinaison= Integer.toString(vCombinaison);
         System.out.println("la longeur de la chaine est de  " + longueurcombinaison.length() + " dans la combinaison prosposée ");
