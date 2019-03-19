@@ -3,8 +3,7 @@ package com.yabaduga.homeshop.miam;
 public class Main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		
 Four grandFour = new Four();
 grandFour.capacite=55;
 grandFour.puissance=260;
