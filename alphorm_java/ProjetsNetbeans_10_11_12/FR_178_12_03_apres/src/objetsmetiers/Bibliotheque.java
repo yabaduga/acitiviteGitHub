@@ -17,7 +17,8 @@ public class Bibliotheque implements Iterable {
     public void AjouterDocument (String titre, String auteur) {
         lesDocs.add(new Livre(titre, auteur));
 
-    }public void AjouterDocument (String titre, int nb) {
+    }
+    public void AjouterDocument (String titre, int nb) {
         lesDocs.add(new Revue(titre, nb));
     }
 

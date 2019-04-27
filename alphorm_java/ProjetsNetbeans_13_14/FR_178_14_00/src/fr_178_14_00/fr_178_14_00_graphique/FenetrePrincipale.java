@@ -1,4 +1,4 @@
-package fr_178_14_00.frè_178_14_00_graphique;
+package fr_178_14_00.fr_178_14_00_graphique;
 
 import fr_178_14_00.services.ServicesBib;
 
