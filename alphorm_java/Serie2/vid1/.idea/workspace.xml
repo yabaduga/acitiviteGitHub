@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b53f17e-203f-401c-abb8-d4ee1d590372" name="Default Changelist" comment="">
+    <list default="true" id="9b53f17e-203f-401c-abb8-d4ee1d590372" name="Default Changelist" comment="vid 1 serie 2  class et main &quot;basique&quot;">
       <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_00/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_00/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_00/.idea/workspace.xml" afterDir="false" />
@@ -533,15 +533,6 @@
       <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/testJee/src/MonServlet.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/testJee/src/test.jsp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/testJee/web/WEB-INF/NewFile.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/vid1/Employe.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/vid1/JavaApplication1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Employe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaApplication1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vid1.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../example-java-rest-client-master/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../example-java-rest-client-master/.idea/libraries/Maven__com_sun_jersey_jersey_bundle_1_10.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../example-java-rest-client-master/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_3.xml" afterDir="false" />
@@ -564,6 +555,7 @@
       <change beforePath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_09_02/src/fr_178_09_02/FR_178_09_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_09_02/src/fr_178_09_02/FR_178_09_02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ProjetsNetbeans_10_11_12/MonTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_10_11_12/MonTest/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ProjetsNetbeans_10_11_12/writerclass/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_10_11_12/writerclass/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../dvdstore_elephorm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../dvdstore_elephorm/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../mergebranch" beforeDir="false" afterPath="$PROJECT_DIR$/../../../mergebranch" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../openclassromms-Java-DAprojet-3" beforeDir="false" afterPath="$PROJECT_DIR$/../../../openclassromms-Java-DAprojet-3" afterDir="false" />
@@ -701,12 +693,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556367715232</updated>
-      <workItem from="1556367721242" duration="447000" />
+      <workItem from="1556367721242" duration="3842000" />
     </task>
+    <task id="LOCAL-00001" summary="vid 1 serie 2  class et main &quot;basique&quot;">
+      <created>1556368214436</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1556368214441</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="447000" />
+    <option name="totallyTimeSpent" value="3842000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="0" />
@@ -718,7 +718,7 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Messages" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
@@ -726,7 +726,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -744,6 +744,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="vid 1 serie 2  class et main &quot;basique&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="vid 1 serie 2  class et main &quot;basique&quot;" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Employe.java">

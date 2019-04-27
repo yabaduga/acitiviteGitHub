@@ -16,9 +16,11 @@ public class FR_178_09_02 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       
+
+        ArrayList<String> tab = new ArrayList();
+            tab.add ("Rouge"); 
+            tab.add ("jaune");
         
-        ArrayList<String> tab = new ArrayList<>(Arrays.asList(args));
         
         for (int i=0; i<tab.size(); i++) {
             String str = tab.get(i);
