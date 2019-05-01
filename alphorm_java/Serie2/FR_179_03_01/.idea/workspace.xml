@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6689231a-0c02-45a6-850e-234898d772c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../FR_179_04_01/src/fr_179_04_01/wikExamples/Carre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FR_179_04_01/src/fr_179_04_01/wikExamples/Distance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FR_179_04_01/src/fr_179_04_01/wikExamples/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FR_179_04_01/src/fr_179_04_01/wikExamples/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FR_179_04_01/src/fr_179_04_01/wikExamples/PointDialog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FR_179_04_01/src/fr_179_04_01/wikExamples/Somme.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Mastermind" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Mastermind" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Mastermind2" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Mastermind2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../MyMenu-I" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MyMenu-I" afterDir="false" />
@@ -26,8 +20,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -86,8 +79,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -99,6 +90,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -156,7 +149,8 @@
       <workItem from="1556379992335" duration="2717000" />
       <workItem from="1556398970179" duration="150000" />
       <workItem from="1556399518614" duration="828000" />
-      <workItem from="1556570764420" duration="249000" />
+      <workItem from="1556570764420" duration="266000" />
+      <workItem from="1556571089086" duration="107000" />
     </task>
     <task id="LOCAL-00001" summary="static = &gt; permet de dissocier les attributs&#10;la méthode static est invocable sur la class et il n'est pas nécessaire d'avoir un objet déjà déclaré">
       <created>1556381771006</created>
@@ -165,16 +159,23 @@
       <option name="project" value="LOCAL" />
       <updated>1556381771006</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="static = &gt; permet de dissocier les attributs&#10;la méthode static est invocable sur la class et il n'est pas nécessaire d'avoir un objet déjà déclaré">
+      <created>1556571020829</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1556571020829</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3944000" />
+    <option name="totallyTimeSpent" value="4068000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.116204694" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11727079" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />

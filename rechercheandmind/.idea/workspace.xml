@@ -4,11 +4,6 @@
     <list default="true" id="c7258bd7-2d45-4053-a497-9dc0003aae12" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../alphorm_java/Serie2/DelannoyExercices/src/CourCir.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../alphorm_java/Serie2/DelannoyExercices/src/OpIncr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rechercheandmind.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mastermind" beforeDir="false" afterPath="$PROJECT_DIR$/../Mastermind" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mastermind2" beforeDir="false" afterPath="$PROJECT_DIR$/../Mastermind2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyMenu-I" beforeDir="false" afterPath="$PROJECT_DIR$/../MyMenu-I" afterDir="false" />
@@ -18,7 +13,7 @@
       <change beforePath="$PROJECT_DIR$/../alphorm_java/Serie2/FR_179_03_01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../alphorm_java/Serie2/FR_179_03_01/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mergebranch" beforeDir="false" afterPath="$PROJECT_DIR$/../mergebranch" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../openclassromms-Java-DAprojet-3" beforeDir="false" afterPath="$PROJECT_DIR$/../openclassromms-Java-DAprojet-3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/rechercheandmind/CompareSecProp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rechercheandmind/CompareSecProp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -37,8 +32,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/rechercheandmind/CompareSecProp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="86" column="34" selection-start-line="86" selection-start-column="34" selection-end-line="86" selection-end-column="34" />
+            <state relative-caret-position="248">
+              <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -146,16 +141,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556710725105</updated>
-      <workItem from="1556710731101" duration="615000" />
+      <workItem from="1556710731101" duration="1156000" />
     </task>
+    <task id="LOCAL-00001" summary="modification faite au mastermind&#10;reste le souci que la combinaison est prise gagnante même dans le désordre">
+      <created>1556711609144</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1556711609145</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="615000" />
+    <option name="totallyTimeSpent" value="1156000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -172,7 +174,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -191,11 +193,15 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="modification faite au mastermind&#10;reste le souci que la combinaison est prise gagnante même dans le désordre" />
+    <option name="LAST_COMMIT_MESSAGE" value="modification faite au mastermind&#10;reste le souci que la combinaison est prise gagnante même dans le désordre" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/rechercheandmind/CompareSecProp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="86" column="34" selection-start-line="86" selection-start-column="34" selection-end-line="86" selection-end-column="34" />
+        <state relative-caret-position="248">
+          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
         </state>
       </provider>
     </entry>
