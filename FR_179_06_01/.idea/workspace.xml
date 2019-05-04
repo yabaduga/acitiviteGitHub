@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a91037bf-7b23-498d-938c-cb5672b4df1e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/métier/Document.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FR_179_06_01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FR_179_06_02.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/yaba/FR_179_05_06/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yaba/FR_179_06_02/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mastermind" beforeDir="false" afterPath="$PROJECT_DIR$/../Mastermind" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mastermind2" beforeDir="false" afterPath="$PROJECT_DIR$/../Mastermind2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyMenu-I" beforeDir="false" afterPath="$PROJECT_DIR$/../MyMenu-I" afterDir="false" />
@@ -41,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/src/métier/Document.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
-              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
               <folding>
                 <element signature="e#141#142#0" expanded="true" />
                 <element signature="e#171#172#0" expanded="true" />
@@ -102,12 +99,6 @@
             </path>
             <path>
               <item name="FR_179_06_01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FR_179_06_01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="métier" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FR_179_06_01" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
             <path>
@@ -163,7 +154,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556975770092</updated>
-      <workItem from="1556975771521" duration="1061000" />
+      <workItem from="1556975771521" duration="2532000" />
     </task>
     <task id="LOCAL-00001" summary="Les champs de donnée&#10;les services de classes publiques&#10;les méthodes de classes de package&#10;cas particulier des classes à dériver">
       <created>1556975812146</created>
@@ -179,26 +170,32 @@
       <option name="project" value="LOCAL" />
       <updated>1556975845106</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Meilleures pratiques pour les modificateurs de champs&#10;&#10;Les champs de donnée&#10;les services de classes publiques&#10;les méthodes de classes de package&#10;cas particulier des classes à dériver">
+      <created>1556976846674</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1556976846674</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1061000" />
+    <option name="totallyTimeSpent" value="2532000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -222,6 +219,32 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Les champs de donnée&#10;les services de classes publiques&#10;les méthodes de classes de package&#10;cas particulier des classes à dériver" />
     <MESSAGE value="Meilleures pratiques pour les modificateurs de champs&#10;&#10;Les champs de donnée&#10;les services de classes publiques&#10;les méthodes de classes de package&#10;cas particulier des classes à dériver" />
@@ -244,7 +267,7 @@
     <entry file="file://$PROJECT_DIR$/src/métier/Document.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
           <folding>
             <element signature="e#141#142#0" expanded="true" />
             <element signature="e#171#172#0" expanded="true" />
