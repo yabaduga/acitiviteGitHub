@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd76839d-7dfb-4e16-a735-091a30df573f" name="Default Changelist" comment="">
+    <list default="true" id="7fc27a2f-c2d9-4856-9361-7d74258dfbd8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FR_179_06_06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yaba/FR_179_06_06/FreqEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yaba/FR_179_06_06/Frequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yaba/FR_179_06_06/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yaba/FR_179_06_06/Revue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FR_179_06_05/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FR_179_06_05/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mastermind" beforeDir="false" afterPath="$PROJECT_DIR$/../Mastermind" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mastermind2" beforeDir="false" afterPath="$PROJECT_DIR$/../Mastermind2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyMenu-I" beforeDir="false" afterPath="$PROJECT_DIR$/../MyMenu-I" afterDir="false" />
@@ -22,47 +35,45 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FR_179_06_05/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_06_06/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="170">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_06_06/Revue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_06_06/FreqEnum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/FR_179_06_05/Bibliotheque.java">
+        <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_06_06/Frequence.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="272">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
               <folding>
-                <element signature="e#211#212#0" expanded="true" />
-                <element signature="e#267#268#0" expanded="true" />
-                <element signature="e#365#366#0" expanded="true" />
-                <element signature="e#413#414#0" expanded="true" />
-                <element signature="e#440#441#0" expanded="true" />
-                <element signature="e#479#480#0" expanded="true" />
+                <element signature="e#123#124#0" expanded="true" />
+                <element signature="e#141#142#0" expanded="true" />
+                <element signature="e#329#330#0" expanded="true" />
+                <element signature="e#363#364#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FR_179_06_05/SensDeParcours.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FR_179_06_05/Document.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -73,6 +84,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -82,11 +94,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/Bibliotheque.java" />
-        <option value="$PROJECT_DIR$/src/FR_179_06_05/SensDeParcours.java" />
-        <option value="$PROJECT_DIR$/src/FR_179_06_05/Bibliotheque.java" />
-        <option value="$PROJECT_DIR$/src/FR_179_06_05/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/yaba/FR_179_06_06/FreqEnum.java" />
+        <option value="$PROJECT_DIR$/src/com/yaba/FR_179_06_06/Revue.java" />
+        <option value="$PROJECT_DIR$/src/com/yaba/FR_179_06_06/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/yaba/FR_179_06_06/Frequence.java" />
       </list>
     </option>
   </component>
@@ -107,8 +118,19 @@
         <subPane>
           <expand>
             <path>
-              <item name="FR_179_06_05" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FR_179_06_05" type="462c0819:PsiDirectoryNode" />
+              <item name="FR_179_06_06" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FR_179_06_06" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FR_179_06_06" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FR_179_06_06" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FR_179_06_06" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FR_179_06_06" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="FR_179_06_06" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -119,17 +141,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="FR_179_06_05" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -143,37 +158,34 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.yaba.FR_179_06_06.Main" />
+      <module name="FR_179_06_06" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bd76839d-7dfb-4e16-a735-091a30df573f" name="Default Changelist" comment="" />
-      <created>1557004229292</created>
+      <changelist id="7fc27a2f-c2d9-4856-9361-7d74258dfbd8" name="Default Changelist" comment="" />
+      <created>1557005907847</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1557004229292</updated>
-      <workItem from="1557004230680" duration="1636000" />
+      <updated>1557005907847</updated>
+      <workItem from="1557005909110" duration="708000" />
     </task>
-    <task id="LOCAL-00001" summary="les classes imbriquées">
-      <created>1557004303825</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1557004303825</updated>
-    </task>
-    <task id="LOCAL-00002" summary="les classes imbriquées&#10;la syntaxe et les intérêts">
-      <created>1557005748228</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1557005748228</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1636000" />
+    <option name="totallyTimeSpent" value="708000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -186,11 +198,10 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -213,63 +224,40 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="les classes imbriquées" />
-    <MESSAGE value="les classes imbriquées&#10;la syntaxe et les intérêts" />
-    <option name="LAST_COMMIT_MESSAGE" value="les classes imbriquées&#10;la syntaxe et les intérêts" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/FR_179_06_05/Document.java">
+    <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_06_06/FreqEnum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FR_179_06_05/SensDeParcours.java">
+    <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_06_06/Revue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        <state relative-caret-position="442">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FR_179_06_05/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_06_06/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FR_179_06_05/Bibliotheque.java">
+    <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_06_06/Frequence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
           <folding>
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-            <element signature="e#365#366#0" expanded="true" />
-            <element signature="e#413#414#0" expanded="true" />
-            <element signature="e#440#441#0" expanded="true" />
-            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
