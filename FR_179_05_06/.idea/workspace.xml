@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b8b398a-36b1-4bcc-a175-06e236754588" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/yaba/FR_179_06_01/Voiture.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FR_179_05_06.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FR_179_06_01.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/yaba/FR_179_05_06/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yaba/FR_179_06_01/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mastermind" beforeDir="false" afterPath="$PROJECT_DIR$/../Mastermind" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mastermind2" beforeDir="false" afterPath="$PROJECT_DIR$/../Mastermind2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyMenu-I" beforeDir="false" afterPath="$PROJECT_DIR$/../MyMenu-I" afterDir="false" />
@@ -31,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_06_01/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+            <state>
+              <caret column="28" selection-start-column="17" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -41,7 +37,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_06_01/Voiture.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="391">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="e#152#153#0" expanded="true" />
                 <element signature="e#183#184#0" expanded="true" />
@@ -68,8 +64,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/yaba/FR_179_05_06/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/yaba/FR_179_06_01/Main.java" />
         <option value="$PROJECT_DIR$/src/com/yaba/FR_179_06_01/Voiture.java" />
+        <option value="$PROJECT_DIR$/src/com/yaba/FR_179_06_01/Main.java" />
       </list>
     </option>
   </component>
@@ -204,7 +200,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556955343448</updated>
-      <workItem from="1556955344938" duration="2809000" />
+      <workItem from="1556955344938" duration="2926000" />
     </task>
     <task id="LOCAL-00001" summary="classes abstraites et généralisation de type">
       <created>1556955378121</created>
@@ -220,11 +216,18 @@
       <option name="project" value="LOCAL" />
       <updated>1556973025109</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="modificateur static&#10;modificateur final+&#10;&#10;public static final (ex MATH.PI)">
+      <created>1556975755369</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1556975755370</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2809000" />
+    <option name="totallyTimeSpent" value="2926000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -245,7 +248,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -267,13 +270,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="classes abstraites et généralisation de type" />
     <MESSAGE value="modificateur static&#10;modificateur final" />
-    <option name="LAST_COMMIT_MESSAGE" value="modificateur static&#10;modificateur final" />
+    <MESSAGE value="modificateur static&#10;modificateur final+&#10;&#10;public static final (ex MATH.PI)" />
+    <option name="LAST_COMMIT_MESSAGE" value="modificateur static&#10;modificateur final+&#10;&#10;public static final (ex MATH.PI)" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_06_01/Voiture.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="e#152#153#0" expanded="true" />
             <element signature="e#183#184#0" expanded="true" />
@@ -285,8 +289,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_06_01/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        <state>
+          <caret column="28" selection-start-column="17" selection-end-column="29" />
         </state>
       </provider>
     </entry>
