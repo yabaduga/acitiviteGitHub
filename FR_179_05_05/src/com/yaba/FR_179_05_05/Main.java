@@ -1,10 +1,12 @@
 package com.yaba.FR_179_05_05;
 
+import org.jetbrains.annotations.NotNull;
+
 import javax.print.Doc;
 
 public class Main {
 
-    static void traite(Document d) {
+    static void traite(@NotNull Document d) {
         System.out.println(d.getAuteur());
     }
     public static void main(String[] args) {
