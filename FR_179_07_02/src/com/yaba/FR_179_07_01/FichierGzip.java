@@ -1,4 +1,4 @@
-package com.yaba.FR_179_06_04;
+package com.yaba.FR_179_07_01;
 
 public class FichierGzip extends FichierAbs {
     public FichierGzip (String nom) {
