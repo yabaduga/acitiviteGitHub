@@ -1,127 +1,268 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a5d7f46-1256-41f8-aaf1-7dc9cc71f9c5" name="Default" comment="" />
+    <list default="true" id="daf56ce5-c349-4a56-a17b-94db33d9f762" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeShop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HomeShop/com/yaba/cursan/miam/Aliment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HomeShop/com/yaba/cursan/miam/Four.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HomeShop/com/yaba/cursan/miam/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yaba/cursan/homeshop/Bill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yaba/cursan/homeshop/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yaba/cursan/homeshop/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yaba/cursan/miam/miam/Aliment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yaba/cursan/miam/miam/Four.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yaba/cursan/miam/miam/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/yaba/cursan/homeshop/ProductTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FR_179_08_02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FR_179_08_02/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mastermind" beforeDir="false" afterPath="$PROJECT_DIR$/../Mastermind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mastermind2" beforeDir="false" afterPath="$PROJECT_DIR$/../Mastermind2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyMenu-I" beforeDir="false" afterPath="$PROJECT_DIR$/../MyMenu-I" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyMenu-III" beforeDir="false" afterPath="$PROJECT_DIR$/../MyMenu-III" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyMenu-V" beforeDir="false" afterPath="$PROJECT_DIR$/../MyMenu-V" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/homeshop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeshop.ui/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeshop.ui/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeshop.ui/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeshop.ui/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeshop.ui/bin/Homeshop/ui/Activator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeshop.ui/bin/Homeshop/ui/common/GenerateAll.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeshop.ui/bin/Homeshop/ui/popupMenus/AcceleoGenerateHomeshopAction$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeshop.ui/bin/Homeshop/ui/popupMenus/AcceleoGenerateHomeshopAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeshop.ui/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeshop.ui/icons/default.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeshop.ui/plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeshop.ui/src/Homeshop/ui/Activator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeshop.ui/src/Homeshop/ui/common/GenerateAll.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeshop.ui/src/Homeshop/ui/popupMenus/AcceleoGenerateHomeshopAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeshop/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeshop/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeshop/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeshop/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeshop/MyDescription.description" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeshop/representations.aird" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeshop/src/JunitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeshop/src/com/yabaduga/homeshop/homeshop/Bill.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeshop/src/com/yabaduga/homeshop/homeshop/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeshop/src/com/yabaduga/homeshop/miam/Aliment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeshop/src/com/yabaduga/homeshop/miam/Four.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeshop/src/com/yabaduga/homeshop/miam/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modelingOne/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modelingOne/representations.aird" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my.project.design/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my.project.design/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my.project.design/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my.project.design/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my.project.design/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my.project.design/description/project.odesign" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my.project.design/plugin.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my.project.design/plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my.project.design/src/my/project/design/Activator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my.project.design/src/my/project/design/Services.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telephone/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telephone/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telephone/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telephone/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telephone/src/telephone/model.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telephone/src/telephone/telephone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mergebranch" beforeDir="false" afterPath="$PROJECT_DIR$/../mergebranch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../openclassromms-Java-DAprojet-3" beforeDir="false" afterPath="$PROJECT_DIR$/../openclassromms-Java-DAprojet-3" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/HomeShop">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>HomeShop</OriginalElement>
+              <nodes>
+                <node x="0.0" y="0.0">com.yaba.cursan.homeshop.Product</node>
+              </nodes>
+              <notes />
+              <edges />
+              <settings layout="Hierarchic Group" zoom="1.0" x="-416.0" y="-30.5" />
+              <SelectedNodes />
+              <Categories>
+                <Category>Constructors</Category>
+                <Category>Methods</Category>
+                <Category>Properties</Category>
+                <Category>Inner Classes</Category>
+                <Category>Fields</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>public</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/yaba/cursan/homeshop/Customer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/yaba/cursan/homeshop/Product.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="24" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/com/yaba/cursan/homeshop/ProductTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/yaba/cursan/homeshop/Bill.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/yaba/cursan/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/yaba/cursan/miam/Aliment.java" />
+        <option value="$PROJECT_DIR$/src/com/yaba/cursan/miam/Four.java" />
+        <option value="$PROJECT_DIR$/src/com/yaba/cursan/miam/Main.java" />
+        <option value="$PROJECT_DIR$/src/HomeShop/Product.java" />
+        <option value="$PROJECT_DIR$/src/com/yaba/cursan/homeshop/Product.java" />
+        <option value="$PROJECT_DIR$/src/com/yaba/cursan/homeshop/Bill.java" />
+        <option value="$PROJECT_DIR$/test/com/yaba/cursan/homeshop/ProductTest.java" />
+        <option value="$PROJECT_DIR$/src/com/yaba/cursan/homeshop/Customer.java" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2732" />
-    <option name="y" value="183" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="x" value="2777" />
+    <option name="width" value="1066" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="homeshop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="homeshop" type="462c0819:PsiDirectoryNode" />
+              <item name="HomeShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeShop" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="homeshop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="homeshop" type="462c0819:PsiDirectoryNode" />
-              <item name="Homeshop" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="homeshop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="homeshop" type="462c0819:PsiDirectoryNode" />
-              <item name="Homeshop" type="462c0819:PsiDirectoryNode" />
+              <item name="HomeShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeShop" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="homeshop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="homeshop" type="462c0819:PsiDirectoryNode" />
-              <item name="Homeshop" type="462c0819:PsiDirectoryNode" />
+              <item name="HomeShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeShop" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="cursan" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="homeshop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="homeshop" type="462c0819:PsiDirectoryNode" />
-              <item name="Homeshop" type="462c0819:PsiDirectoryNode" />
+              <item name="HomeShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeShop" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="yabaduga" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="homeshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cursan" type="462c0819:PsiDirectoryNode" />
               <item name="homeshop" type="462c0819:PsiDirectoryNode" />
-              <item name="Homeshop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="yabaduga" type="462c0819:PsiDirectoryNode" />
-              <item name="homeshop" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="homeshop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="homeshop" type="462c0819:PsiDirectoryNode" />
-              <item name="Homeshop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="yabaduga" type="462c0819:PsiDirectoryNode" />
-              <item name="homeshop" type="462c0819:PsiDirectoryNode" />
-              <item name="miam" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="homeshop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="homeshop" type="462c0819:PsiDirectoryNode" />
-              <item name="modelingOne" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="homeshop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="homeshop" type="462c0819:PsiDirectoryNode" />
-              <item name="telephone" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.yaba.cursan.homeshop" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.yaba.cursan.homeshop" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -136,216 +277,195 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.yaba.cursan.miam.miam.Main" />
+      <module name="HomeShop" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9a5d7f46-1256-41f8-aaf1-7dc9cc71f9c5" name="Default" comment="" />
-      <created>1553114771573</created>
+      <changelist id="daf56ce5-c349-4a56-a17b-94db33d9f762" name="Default Changelist" comment="" />
+      <created>1557074764333</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1553114771573</updated>
-      <workItem from="1553114772856" duration="285000" />
-      <workItem from="1554924866273" duration="351000" />
+      <updated>1557074764333</updated>
+      <workItem from="1557074765632" duration="2329000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="636000" />
+    <option name="totallyTimeSpent" value="2329000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25266525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" weight="0.32995737" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="uml://JavaScript-modules-diagram/C:/Users/Yabaduga/mon_projet/homeshop/Homeshop/src">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JavaScript-modules-diagram</ID>
-          <OriginalElement>$PROJECT_DIR$/Homeshop/src</OriginalElement>
-          <nodes />
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="240.0" y="240.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>All</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>Details</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JavaScript-modules-diagram/C:/Users/Yabaduga/mon_projet/homeshop/Homeshop/src/com/yabaduga/homeshop/miam">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JavaScript-modules-diagram</ID>
-          <OriginalElement>$PROJECT_DIR$/Homeshop/src/com/yabaduga/homeshop/miam</OriginalElement>
-          <nodes />
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="240.0" y="240.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>All</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>Details</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://MODULES/mdl-homeshop">
+    <entry file="uml://MODULES/mdl-HomeShop">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
           <ID>MODULES</ID>
-          <OriginalElement>mdl-homeshop</OriginalElement>
+          <OriginalElement>mdl-HomeShop</OriginalElement>
           <nodes>
-            <node x="0.0" y="0.0">mdl-homeshop</node>
+            <node x="0.0" y="0.0">mdl-HomeShop</node>
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="70.0" y="15.0" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-396.5" y="-34.0" />
           <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
+          <Categories>
+            <Category>Libraries</Category>
+            <Category>Test dependencies</Category>
+          </Categories>
         </state>
       </provider>
     </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+    <entry file="uml://JAVA/com.yaba.cursan.miam">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.yaba.cursan.miam</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">com.yaba.cursan.miam.Four</node>
+            <node x="175.0" y="139.0">com.yaba.cursan.miam.Main</node>
+            <node x="0.0" y="139.0">com.yaba.cursan.miam.Aliment</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-302.5" y="72.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>public</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yaba/cursan/miam/miam/Aliment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yaba/cursan/miam/miam/Four.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yaba/cursan/miam/miam/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yaba/cursan/homeshop/Bill.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/yaba/cursan/homeshop/ProductTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yaba/cursan/homeshop/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/HomeShop">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>HomeShop</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">com.yaba.cursan.homeshop.Product</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-416.0" y="-30.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+            <Category>Fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>public</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yaba/cursan/homeshop/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
