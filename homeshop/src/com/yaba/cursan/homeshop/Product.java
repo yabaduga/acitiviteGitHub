@@ -1,6 +1,6 @@
 package com.yaba.cursan.homeshop;
 
-public class Product {
+public class Product extends Bill {
     private String name;
     private String description;
     private double price;
