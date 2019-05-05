@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8411c3c1-5524-4238-b046-2cc9330f3d6d" name="Default Changelist" comment="">
+    <list default="true" id="d3255e7f-a4b8-4131-a88a-f6944a6866c0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FR_179_07_04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yaba/FR_179_07_04/Document.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yaba/FR_179_07_04/DocumentDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yaba/FR_179_07_04/FabriquePersistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yaba/FR_179_07_04/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yaba/FR_179_07_04/OracleDocumentDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FR_179_07_03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FR_179_07_03/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mastermind" beforeDir="false" afterPath="$PROJECT_DIR$/../Mastermind" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mastermind2" beforeDir="false" afterPath="$PROJECT_DIR$/../Mastermind2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyMenu-I" beforeDir="false" afterPath="$PROJECT_DIR$/../MyMenu-I" afterDir="false" />
@@ -24,25 +38,16 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_07_03/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_07_04/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            <state relative-caret-position="170">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_07_03/Document.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_07_03/Ressource.java">
+        <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_07_04/FabriquePersistance.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
               <caret line="5" selection-start-line="5" selection-end-line="5" />
@@ -51,10 +56,38 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_07_03/Payable.java">
+        <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_07_04/OracleDocumentDAO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="221">
+              <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+              <folding>
+                <element signature="e#179#180#0" expanded="true" />
+                <element signature="e#206#207#0" expanded="true" />
+                <element signature="e#262#263#0" expanded="true" />
+                <element signature="e#289#290#0" expanded="true" />
+                <element signature="e#349#350#0" expanded="true" />
+                <element signature="e#376#377#0" expanded="true" />
+                <element signature="e#433#434#0" expanded="true" />
+                <element signature="e#461#462#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_07_04/DocumentDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_07_04/Document.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -64,8 +97,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -75,9 +108,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/yaba/FR_179_07_03/Ressource.java" />
-        <option value="$PROJECT_DIR$/src/com/yaba/FR_179_07_03/Document.java" />
-        <option value="$PROJECT_DIR$/src/com/yaba/FR_179_07_03/Payable.java" />
+        <option value="$PROJECT_DIR$/src/com/yaba/FR_179_07_04/OracleDocumentDAO.java" />
+        <option value="$PROJECT_DIR$/src/com/yaba/FR_179_07_04/FabriquePersistance.java" />
+        <option value="$PROJECT_DIR$/src/com/yaba/FR_179_07_04/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/yaba/FR_179_07_04/DocumentDAO.java" />
       </list>
     </option>
   </component>
@@ -99,19 +133,19 @@
         <subPane>
           <expand>
             <path>
-              <item name="FR_179_07_03" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FR_179_07_03" type="462c0819:PsiDirectoryNode" />
+              <item name="FR_179_07_04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FR_179_07_04" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="FR_179_07_03" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FR_179_07_03" type="462c0819:PsiDirectoryNode" />
+              <item name="FR_179_07_04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FR_179_07_04" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="FR_179_07_03" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FR_179_07_03" type="462c0819:PsiDirectoryNode" />
+              <item name="FR_179_07_04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FR_179_07_04" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="FR_179_07_03" type="462c0819:PsiDirectoryNode" />
+              <item name="FR_179_07_04" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -124,6 +158,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.yaba.FR_179_07_04" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -139,8 +178,8 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.yaba.FR_179_07_03.Main" />
-      <module name="FR_179_07_03" />
+      <option name="MAIN_CLASS_NAME" value="com.yaba.FR_179_07_04.Main" />
+      <module name="FR_179_07_04" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -154,25 +193,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8411c3c1-5524-4238-b046-2cc9330f3d6d" name="Default Changelist" comment="" />
-      <created>1557056791771</created>
+      <changelist id="d3255e7f-a4b8-4131-a88a-f6944a6866c0" name="Default Changelist" comment="" />
+      <created>1557057860003</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1557056791771</updated>
-      <workItem from="1557056793065" duration="1065000" />
+      <updated>1557057860003</updated>
+      <workItem from="1557057861254" duration="504000" />
     </task>
-    <task id="LOCAL-00001" summary="implémentation d'interfaces&#10;collision sur méthode avec type différent">
-      <created>1557057690468</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1557057690468</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1065000" />
+    <option name="totallyTimeSpent" value="504000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -211,36 +242,49 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="implémentation d'interfaces&#10;collision sur méthode avec type différent" />
-    <option name="LAST_COMMIT_MESSAGE" value="implémentation d'interfaces&#10;collision sur méthode avec type différent" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_07_03/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_07_04/Document.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        <state relative-caret-position="34">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_07_03/Ressource.java">
+    <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_07_04/OracleDocumentDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <folding>
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_07_04/DocumentDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_07_04/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_07_04/FabriquePersistance.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_07_03/Payable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_07_03/Document.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
