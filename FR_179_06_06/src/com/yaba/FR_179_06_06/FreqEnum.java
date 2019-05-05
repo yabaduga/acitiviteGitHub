@@ -4,4 +4,5 @@ public enum FreqEnum {
     Mensuel,
     Hebdo
 
+
 }
