@@ -11,5 +11,9 @@ public class Main {
 
             System.out.println(bib.getInfos());
 
+            for (String s : bib.getIndexes()){
+                System.out.println("les clés sont : " +s);
+            }
+
     }
 }

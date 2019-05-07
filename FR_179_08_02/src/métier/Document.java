@@ -1,6 +1,11 @@
 package métier;
 
-public class Document {
+ class Document {
+    private String titre;
+    Document(String titre) {
+        this.titre=titre;
+    }
+
     String getInfos(){
         return "";
     }

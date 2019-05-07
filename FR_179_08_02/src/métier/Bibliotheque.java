@@ -12,7 +12,7 @@ public class Bibliotheque {
 
     public Bibliotheque(String nom) {
         this.nom = nom;
-        lesDocuments = new ArrayList <>();
+        lesDocuments = new LinkedList <>();
         lesIndex=new HashMap <>();
     }
 
@@ -36,5 +36,8 @@ public class Bibliotheque {
             retval += doc.getInfos() + "\n";
         }
         return retval;
+    }
+    public Collection<String> getIndexes() {
+        return lesIndex.keySet();
     }
 }
