@@ -5,8 +5,8 @@ public class Main {
     public static void main(String[] args) {
 
         Bibliotheque bib = new Bibliotheque("Alphorm bib");
-        bib.ajouteDocument("le titre", 43);
-        bib.ajouteDocument("nouveau titre", "un auteur");
+        bib.ajouteDocument("Science","le titre", 43);
+        bib.ajouteDocument("Psycho","nouveau titre", "un auteur");
 
 
             System.out.println(bib.getInfos());

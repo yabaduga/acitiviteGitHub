@@ -5,20 +5,28 @@ import java.util.*;
 public class Bibliotheque {
 
     private String nom;
-    private ArrayList <Document> lesDocuments;
+    private List <Document> lesDocuments; // utilisation de list plutot que arrayList afin de ne pas avoir de souci si on change pour une Linked list
+    // on souhaite manipuler les conteneurs par le type de plus haut niveau
+    private Map<String, Document> lesIndex;
 
 
     public Bibliotheque(String nom) {
         this.nom = nom;
         lesDocuments = new ArrayList <>();
+        lesIndex=new HashMap <>();
     }
 
-    public void ajouteDocument(String titre, int nbPages) {
-        lesDocuments.add(new Revue(titre, nbPages));
+    public void ajouteDocument(String index,String titre, int nbPages) {
+
+        Revue r = new Revue(titre, nbPages);
+        lesDocuments.add(r);
+        lesIndex.put(index, r);
     }
 
-    public void ajouteDocument(String titre, String auteur) {
-        lesDocuments.add(new Livre(titre, auteur));
+    public void ajouteDocument(String index,String titre, String auteur) {
+        Livre l = new Livre (titre, auteur);
+        lesDocuments.add(l);
+        lesIndex.put(index, l);
     }
 
     public String getInfos() {
