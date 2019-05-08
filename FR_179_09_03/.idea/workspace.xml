@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5a4299f-1d6d-44b5-9fc9-7ea77bd8d488" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/FR_179_09_02/com/yaba/FR_179_09_02/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FR_179_09_02/com/yaba/FR_179_09_02/Main.class" afterDir="false" />
+    <list default="true" id="5af09333-df9f-407c-8830-7be40b5045a6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FR_179_09_03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yaba/FR_179_09_03/Document.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yaba/FR_179_09_03/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FR_179_09_02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FR_179_09_02/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FR_179_09_02/out/production/FR_179_09_02/com/yaba/FR_179_09_02/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../FR_179_09_02/out/production/FR_179_09_02/com/yaba/FR_179_09_02/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mastermind" beforeDir="false" afterPath="$PROJECT_DIR$/../Mastermind" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mastermind2" beforeDir="false" afterPath="$PROJECT_DIR$/../Mastermind2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyMenu-I" beforeDir="false" afterPath="$PROJECT_DIR$/../MyMenu-I" afterDir="false" />
@@ -25,15 +37,35 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_09_02/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_09_03/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
-              <caret line="41" selection-start-line="41" selection-end-line="41" />
+            <state relative-caret-position="119">
+              <caret line="7" column="122" selection-start-line="7" selection-start-column="122" selection-end-line="7" selection-end-column="122" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_09_03/Document.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="e#319#320#0" expanded="true" />
+                <element signature="e#383#384#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -41,7 +73,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/yaba/FR_179_09_02/Main.java" />
+        <option value="$PROJECT_DIR$/src/Document.java" />
+        <option value="$PROJECT_DIR$/src/com/yaba/FR_179_09_03/Document.java" />
+        <option value="$PROJECT_DIR$/src/com/yaba/FR_179_09_03/Main.java" />
       </list>
     </option>
   </component>
@@ -57,8 +91,29 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FR_179_09_03" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FR_179_09_03" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FR_179_09_03" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FR_179_09_03" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FR_179_09_03" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FR_179_09_03" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="FR_179_09_03" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -81,8 +136,8 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.yaba.FR_179_09_02.Main" />
-      <module name="FR_179_09_02" />
+      <option name="MAIN_CLASS_NAME" value="com.yaba.FR_179_09_03.Main" />
+      <module name="FR_179_09_03" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -101,32 +156,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d5a4299f-1d6d-44b5-9fc9-7ea77bd8d488" name="Default Changelist" comment="" />
-      <created>1557354432668</created>
+      <changelist id="5af09333-df9f-407c-8830-7be40b5045a6" name="Default Changelist" comment="" />
+      <created>1557355564007</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1557354432668</updated>
-      <workItem from="1557354434312" duration="1127000" />
+      <updated>1557355564007</updated>
+      <workItem from="1557355565316" duration="1037000" />
     </task>
-    <task id="LOCAL-00001" summary="utilisation de StringTokenizer">
-      <created>1557354798227</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1557354798227</updated>
-    </task>
-    <task id="LOCAL-00002" summary="utilisation de StringTokenizer&#10;manipulation et analyse d'un texte&#10;mot&#10;groupe de mot (délimiteur)&#10;comptage d'une valeur (d'un caractère)">
-      <created>1557355363484</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1557355363484</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1127000" />
+    <option name="totallyTimeSpent" value="1037000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -139,7 +179,7 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
@@ -147,8 +187,8 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -166,16 +206,22 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="utilisation de StringTokenizer" />
-    <MESSAGE value="utilisation de StringTokenizer&#10;manipulation et analyse d'un texte&#10;mot&#10;groupe de mot (délimiteur)&#10;comptage d'une valeur (d'un caractère)" />
-    <option name="LAST_COMMIT_MESSAGE" value="utilisation de StringTokenizer&#10;manipulation et analyse d'un texte&#10;mot&#10;groupe de mot (délimiteur)&#10;comptage d'une valeur (d'un caractère)" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_09_02/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_09_03/Document.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_09_03/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="122" selection-start-line="7" selection-start-column="122" selection-end-line="7" selection-end-column="122" />
         </state>
       </provider>
     </entry>
