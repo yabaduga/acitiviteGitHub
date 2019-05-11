@@ -1,4 +1,4 @@
-package com.yaba.FR_179_10_07;
+package com.yaba.FR_179_10_06;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
