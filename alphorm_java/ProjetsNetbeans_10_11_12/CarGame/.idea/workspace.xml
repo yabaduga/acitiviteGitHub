@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf992ed4-e0f4-443e-ba7e-9ed021cdb188" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_00/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_00/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_00/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_00/FR_178_07_00.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_00/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_00/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_00/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_00/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_00/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_00/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_00/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_00/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_00/out/production/FR_178_07_00/fr_178_07_00/FR_178_07_00.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_00/out/production/FR_178_07_00/fr_178_07_00/Voiture.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_00/src/fr_178_07_00/FR_178_07_00.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_01/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_01/FR_178_07_01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_01/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_01/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_01/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_01/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_01/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_01/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_01/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_01/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_01/out/production/FR_178_07_01/fr_178_07_01/FR_178_07_01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_01/src/fr_178_07_01/FR_178_07_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_02/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_02/FR_178_07_02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_02/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_02/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_02/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_02/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_02/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_02/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_02/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_02/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_02/out/production/FR_178_07_02/fr_178_07_02/FR_178_07_02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_02/src/fr_178_07_02/FR_178_07_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_03/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_03/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_03/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_03/FR_178_07_03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_03/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_03/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_03/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_03/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_03/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_03/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_03/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_03/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_03/out/production/FR_178_07_03/fr_178_07_03/FR_178_07_03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_03/out/production/FR_178_07_03/fr_178_07_03/Voiture.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_03/src/fr_178_07_03/FR_178_07_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_04/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_04/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_04/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_04/FR_178_07_04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_04/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_04/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_04/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_04/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_04/nbproject/private/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_04/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_04/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_04/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_04/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_04/out/production/FR_178_07_04/fr_178_07_04/Dé.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_04/out/production/FR_178_07_04/fr_178_07_04/DéPipé.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_04/out/production/FR_178_07_04/fr_178_07_04/FR_178_07_04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_04/src/fr_178_07_04/Dé.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_04/src/fr_178_07_04/DéPipé.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_04/src/fr_178_07_04/FR_178_07_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_05/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_05/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_05/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_05/FR_178_07_05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_05/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_05/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_05/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_05/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_05/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_05/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_05/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_05/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_05/out/production/FR_178_07_05/fr_178_07_05/FR_178_07_05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_07_05/src/fr_178_07_05/FR_178_07_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_00/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_00/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_00/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_00/FR_178_08_00.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_00/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_00/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_00/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_00/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_00/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_00/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_00/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_00/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_00/out/production/FR_178_08_00/fr_178_08_00/FR_178_08_00.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_00/out/production/FR_178_08_00/fr_178_08_00/Voiture.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_00/src/fr_178_08_00/FR_178_08_00.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_01/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_01/FR_178_08_01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_01/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_01/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_01/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_01/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_01/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_01/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_01/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_01/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_01/out/production/FR_178_08_01/fr_178_08_01/FR_178_08_01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_01/src/fr_178_08_01/FR_178_08_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_02/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_02/FR_178_08_02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_02/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_02/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_02/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_02/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_02/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_02/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_02/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_02/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_02/out/production/FR_178_08_02/fr_178_08_02/FR_178_08_02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_02/src/fr_178_08_02/FR_178_08_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_03/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_03/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_03/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_03/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_03/FR_178_08_03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_03/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_03/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_03/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_03/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_03/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_03/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_03/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_03/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_03/out/production/FR_178_08_03/fr_178_08_03/FR_178_08_03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_03/src/fr_178_08_03/FR_178_08_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_04/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_04/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_04/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_04/FR_178_08_04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_04/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_04/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_04/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_04/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_04/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_04/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_04/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_04/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_04/src/fr_178_08_04/FR_178_08_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_05/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_05/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_05/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_05/FR_178_08_05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_05/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_05/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_05/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_05/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_05/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_05/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_05/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_05/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_05/out/production/FR_178_08_05/fr_178_08_05/FR_178_08_05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_05/src/fr_178_08_05/FR_178_08_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_06/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_06/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_06/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_06/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_06/Diagram_project.uml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_06/FR_178_08_06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_06/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_06/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_06/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_06/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_06/nbproject/private/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_06/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_06/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_06/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_06/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_06/src/fr_178_08_06/De.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_08_06/src/fr_178_08_06/FR_178_08_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_09_00/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_09_00/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_09_00/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_09_00/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_09_00/nbproject/private/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_09_00/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_09_00/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_09_00/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_09_00/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_09_00/src/fr_178_09_00/FR_178_09_00.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_09_01/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_09_01/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_09_01/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_09_01/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_09_01/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_09_01/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_09_01/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_09_01/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_09_01/src/fr_178_09_01/FR_178_09_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_09_02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_09_03/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_09_03/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_09_03/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_09_03/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_09_03/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_09_03/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_09_03/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_09_03/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_09_03/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_09_03/src/fr_178_09_03/FR_178_09_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_09_03/src/fr_178_09_03/Personne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_00/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_00/build/classes/.netbeans_automatic_build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_00/build/classes/.netbeans_update_resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_00/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_00/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_00/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_00/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_00/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_00/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_00/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_00/src/fr_178_10_00/Dé.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_00/src/fr_178_10_00/FR_178_10_00.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_01/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_01/build/classes/.netbeans_automatic_build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_01/build/classes/.netbeans_update_resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_01/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_01/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_01/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_01/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_01/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_01/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_01/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_01/src/fr_178_10_01/FR_178_10_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_01/src/fr_178_10_01/Personne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_02/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_02/build/classes/.netbeans_automatic_build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_02/build/classes/.netbeans_update_resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_02/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_02/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_02/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_02/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_02/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_02/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_02/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_02/src/autrepackage/AutreClasse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_02/src/fr_178_10_02/Document.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_02/src/fr_178_10_02/FR_178_10_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_03/src/com/FR_178_10_03/FR_178_10_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_03_apres/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_03_apres/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_03_apres/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_03_apres/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_03_apres/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_03_apres/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_03_avant/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_03_avant/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_03_avant/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_03_avant/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_03_avant/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_03_avant/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_04/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_04/build/classes/.netbeans_automatic_build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_04/build/classes/.netbeans_update_resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_04/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_04/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_04/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_04/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_04/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_04/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_04/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_10_04/src/fr_178_10_04/FR_178_10_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_11_00/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_11_00/build/classes/.netbeans_automatic_build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_11_00/build/classes/.netbeans_update_resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_11_00/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_11_00/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_11_00/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_11_00/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_11_00/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_11_00/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_11_00/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_11_00/src/fr_178_11_00/FR_178_11_00.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_11_00/src/fr_178_11_00/Livre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_11_01_apres/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_11_01_apres/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_11_01_apres/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_11_01_apres/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_11_01_apres/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_11_01_apres/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_11_01_avant/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_11_01_avant/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_11_01_avant/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_11_01_avant/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_11_01_avant/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_11_01_avant/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_00_apres/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_00_apres/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_00_apres/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_00_apres/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_00_apres/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_00_apres/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_00_avant/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_00_avant/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_00_avant/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_00_avant/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_00_avant/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_00_avant/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_01_apres/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_01_apres/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_01_apres/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_01_apres/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_01_apres/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_01_apres/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_01_avant/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_01_avant/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_01_avant/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_01_avant/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_01_avant/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_01_avant/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_02_apres/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_02_apres/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_02_apres/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_02_apres/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_02_apres/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_02_apres/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_02_avant/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_02_avant/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_02_avant/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_02_avant/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_02_avant/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_02_avant/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_03_apres/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_03_apres/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_03_apres/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_03_apres/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_03_apres/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_03_apres/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_03_avant/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_03_avant/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_03_avant/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_03_avant/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_03_avant/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_03_avant/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_04_apres/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_04_apres/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_04_apres/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_04_apres/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_04_apres/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_04_apres/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_04_avant/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_04_avant/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_04_avant/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_04_avant/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_04_avant/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_178_12_04_avant/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_13_00/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_13_00/build/classes/.netbeans_automatic_build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_13_00/build/classes/.netbeans_update_resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_13_00/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_13_00/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_13_00/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_13_00/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_13_00/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_13_00/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_13_00/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_13_00/src/fr_178_13_00/FR_178_13_00.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_13_01/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_13_01/build/classes/.netbeans_automatic_build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_13_01/build/classes/.netbeans_update_resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_13_01/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_13_01/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_13_01/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_13_01/nbproject/private/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_13_01/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_13_01/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_13_01/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_13_01/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_13_01/src/fr_178_13_01/FR_178_13_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_13_01/src/fr_178_13_01/MonException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_13_02/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_13_02/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_13_02/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_13_02/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_13_02/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_13_02/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_13_02/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_13_02/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_13_02/src/fr_178_13_02/FR_178_13_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_13_03/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_13_03/build/classes/.netbeans_automatic_build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_13_03/build/classes/.netbeans_update_resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_13_03/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_13_03/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_13_03/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_13_03/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_13_03/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_13_03/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_13_03/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_13_03/src/fr_178_13_03/Bibliotheque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_13_03/src/fr_178_13_03/DoublonDeTitreException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_13_03/src/fr_178_13_03/FR_178_13_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_13_03/src/fr_178_13_03/Livre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_14_00/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_14_00/build/built-jar.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_14_00/dist/FR_178_14_00.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_14_00/dist/README.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_14_00/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_14_00/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_14_00/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_14_00/nbproject/private/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_14_00/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_14_00/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_14_00/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_14_00/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_14_00/src/fr_178_14_00/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_14_01_apres/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_14_01_apres/build/built-jar.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_14_01_apres/dist/FR_178_14_01_apres.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_14_01_apres/dist/README.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_14_01_apres/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_14_01_apres/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_14_01_apres/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_14_01_apres/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_14_01_apres/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_14_01_avant/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_14_01_avant/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_14_01_avant/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_14_01_avant/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_14_01_avant/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_13_14/FR_178_14_01_avant/nbproject/project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MyMenu-I" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MyMenu-I" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MyMenu-III" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MyMenu-III" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MyMenu-V" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MyMenu-V" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_09_02/src/fr_178_09_02/FR_178_09_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProjetsNetbeans_07_08_09/FR_178_09_02/src/fr_178_09_02/FR_178_09_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../mergebranch" beforeDir="false" afterPath="$PROJECT_DIR$/../../../mergebranch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../openclassromms-Java-DAprojet-3" beforeDir="false" afterPath="$PROJECT_DIR$/../../../openclassromms-Java-DAprojet-3" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Objet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Joueur.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Objet.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/Joueur.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CarGame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CarGame" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CarGame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CarGame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../.." />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="CarGame" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf992ed4-e0f4-443e-ba7e-9ed021cdb188" name="Default" comment="" />
+      <created>1555832132371</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555832132371</updated>
+      <workItem from="1555832135120" duration="5093000" />
+      <workItem from="1555851516288" duration="1549000" />
+      <workItem from="1555876551504" duration="667000" />
+      <workItem from="1555877680184" duration="42000" />
+      <workItem from="1555877776634" duration="368000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7719000" />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26066098" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" sideWeight="0.49946696" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49573562" weight="0.32934782" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4978678" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4946695" weight="0.32827735" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32934782" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32934782" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32995737" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Maven" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Objet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Joueur.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
