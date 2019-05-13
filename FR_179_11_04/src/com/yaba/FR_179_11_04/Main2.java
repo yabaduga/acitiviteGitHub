@@ -1,4 +1,4 @@
-package com.yaba.FR_179_11_05;
+package com.yaba.FR_179_11_04;
 import java.io.*;
 public class Main2 {
     public static void main(String[] args) throws Exception {
