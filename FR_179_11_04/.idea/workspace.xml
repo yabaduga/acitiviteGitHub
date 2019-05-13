@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f5edef9-a730-4539-8c38-6a3cc536ca5f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FR_179_11_05/com/yaba/FR_179_11_05/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FR_179_11_05/com/yaba/FR_179_11_05/Main2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FR_179_11_05/com/yaba/FR_179_11_05/Main3.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mastermind" beforeDir="false" afterPath="$PROJECT_DIR$/../Mastermind" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mastermind2" beforeDir="false" afterPath="$PROJECT_DIR$/../Mastermind2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyMenu-I" beforeDir="false" afterPath="$PROJECT_DIR$/../MyMenu-I" afterDir="false" />
@@ -19,22 +22,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_11_05/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_11_04/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_11_05/Main2.java">
+        <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_11_04/Main2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
               <caret line="13" column="56" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
@@ -43,7 +45,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_11_05/Main3.java">
+        <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_11_04/Main3.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
               <caret line="19" column="55" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
@@ -94,6 +96,7 @@
         <option value="$PROJECT_DIR$/src/com/yaba/FR_179_11_05/Main.java" />
         <option value="$PROJECT_DIR$/src/com/yaba/FR_179_11_05/Main2.java" />
         <option value="$PROJECT_DIR$/src/com/yaba/FR_179_11_05/Main3.java" />
+        <option value="$PROJECT_DIR$/src/com/yaba/FR_179_11_04/Main.java" />
       </list>
     </option>
   </component>
@@ -108,30 +111,24 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="FR_179_11_05" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FR_179_11_05" type="462c0819:PsiDirectoryNode" />
+              <item name="FR_179_11_04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FR_179_11_04" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="FR_179_11_05" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FR_179_11_05" type="462c0819:PsiDirectoryNode" />
+              <item name="FR_179_11_04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FR_179_11_04" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FR_179_11_05" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FR_179_11_05" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="FR_179_11_05" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -213,6 +210,7 @@
       <workItem from="1557694891514" duration="622000" />
       <workItem from="1557696835418" duration="1883000" />
       <workItem from="1557728045205" duration="591000" />
+      <workItem from="1557729440508" duration="74000" />
     </task>
     <task id="LOCAL-00001" summary="les flux d'entrées sorties&#10;les classes et méthodes (writer, buffer, ...) = java.io !&#10;tests divers sur création de fichiers et différences selon les classes utilisées">
       <created>1557698675052</created>
@@ -221,17 +219,24 @@
       <option name="project" value="LOCAL" />
       <updated>1557698675052</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="les flux d'entrées sorties&#10;les classes et méthodes (writer, buffer, ...) = java.io !&#10;tests divers sur création de fichiers et différences selon les classes utilisées">
+      <created>1557729479252</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1557729479252</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3096000" />
+    <option name="totallyTimeSpent" value="3170000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -270,21 +275,21 @@
     <option name="LAST_COMMIT_MESSAGE" value="les flux d'entrées sorties&#10;les classes et méthodes (writer, buffer, ...) = java.io !&#10;tests divers sur création de fichiers et différences selon les classes utilisées" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_11_05/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_11_04/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_11_05/Main2.java">
+    <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_11_04/Main2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="56" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_11_05/Main3.java">
+    <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_11_04/Main3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="55" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
