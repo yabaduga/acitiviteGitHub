@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f3edfea-4075-4f5c-bf61-0f107cd35fbb" name="Default Changelist" comment="">
+    <list default="true" id="2ed9bbe1-e98f-4cca-987b-428e150e703a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FR_179_12_03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yaba/FR_179_12_03/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mastermind" beforeDir="false" afterPath="$PROJECT_DIR$/../Mastermind" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mastermind2" beforeDir="false" afterPath="$PROJECT_DIR$/../Mastermind2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyMenu-I" beforeDir="false" afterPath="$PROJECT_DIR$/../MyMenu-I" afterDir="false" />
@@ -9,6 +18,7 @@
       <change beforePath="$PROJECT_DIR$/../MyMenu-V" beforeDir="false" afterPath="$PROJECT_DIR$/../MyMenu-V" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mergebranch" beforeDir="false" afterPath="$PROJECT_DIR$/../mergebranch" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../openclassromms-Java-DAprojet-3" beforeDir="false" afterPath="$PROJECT_DIR$/../openclassromms-Java-DAprojet-3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitledFR_179_12_02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitledFR_179_12_02/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,17 +27,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_12_02/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_12_03/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="27" selection-start-column="17" selection-end-column="29" />
+            <state relative-caret-position="289">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -43,7 +49,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/yaba/FR_179_12_02/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/yaba/FR_179_12_03/Main.java" />
       </list>
     </option>
   </component>
@@ -67,29 +73,8 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="untitledFR_179_12_02" type="b2602c69:ProjectViewProjectNode" />
-              <item name="untitledFR_179_12_02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="untitledFR_179_12_02" type="b2602c69:ProjectViewProjectNode" />
-              <item name="untitledFR_179_12_02" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="untitledFR_179_12_02" type="b2602c69:ProjectViewProjectNode" />
-              <item name="untitledFR_179_12_02" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="FR_179_12_02" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -111,8 +96,8 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.yaba.FR_179_12_02.Main" />
-      <module name="untitledFR_179_12_02" />
+      <option name="MAIN_CLASS_NAME" value="com.yaba.FR_179_12_03.Main" />
+      <module name="FR_179_12_03" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -131,25 +116,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2f3edfea-4075-4f5c-bf61-0f107cd35fbb" name="Default Changelist" comment="" />
-      <created>1557758587651</created>
+      <changelist id="2ed9bbe1-e98f-4cca-987b-428e150e703a" name="Default Changelist" comment="" />
+      <created>1557759515613</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1557758587651</updated>
-      <workItem from="1557758588957" duration="925000" />
+      <updated>1557759515613</updated>
+      <workItem from="1557759516924" duration="1098000" />
     </task>
-    <task id="LOCAL-00001" summary="Parcours des répertoires, listage des fichiers et ddéterminer leurs attributs">
-      <created>1557759466443</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1557759466444</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="925000" />
+    <option name="totallyTimeSpent" value="1098000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -162,7 +139,6 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
@@ -170,7 +146,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -189,15 +165,11 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Parcours des répertoires, listage des fichiers et ddéterminer leurs attributs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Parcours des répertoires, listage des fichiers et ddéterminer leurs attributs" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_12_02/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_12_03/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="27" selection-start-column="17" selection-end-column="29" />
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
