@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9391956-24f4-46e3-a684-056aae1c46de" name="Default Changelist" comment="">
+    <list default="true" id="df1f3785-d9f9-44cc-8ccd-03c8f3c7c709" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../FR_179_10_02/out/production/FR_179_10_02/com/yaba/FR_179_10_02/Bibliotheque.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FR_179_10_02/out/production/FR_179_10_02/com/yaba/FR_179_10_02/Livre.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FR_179_10_02/out/production/FR_179_10_02/com/yaba/FR_179_10_02/LivreEnDoubleException.class" afterDir="false" />
@@ -29,8 +29,19 @@
       <change afterPath="$PROJECT_DIR$/../FR_179_11_02/out/production/FR_179_11_02/com/yaba/FR_179_11_02/Main.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FR_179_11_02/src/com/yaba/FR_179_11_02/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FR_179_11_02/toto.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FR_179_11_06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yaba/FR_179_11_06/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yaba/FR_179_11_06/Voiture.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FR_179_12_07/out/production/FR_179_12_07/com/yaba/FR_179_10_07/Chat.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FR_179_12_07/out/production/FR_179_12_07/com/yaba/FR_179_10_07/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FR_179_11_05/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FR_179_11_05/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mastermind" beforeDir="false" afterPath="$PROJECT_DIR$/../Mastermind" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mastermind2" beforeDir="false" afterPath="$PROJECT_DIR$/../Mastermind2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyMenu-I" beforeDir="false" afterPath="$PROJECT_DIR$/../MyMenu-I" afterDir="false" />
@@ -53,15 +64,40 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_11_05/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_11_06/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="19" selection-start-column="17" selection-end-column="29" />
+            <state relative-caret-position="306">
+              <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_11_06/Voiture.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+              <folding>
+                <element signature="e#124#125#0" expanded="true" />
+                <element signature="e#152#153#0" expanded="true" />
+                <element signature="e#328#329#0" expanded="true" />
+                <element signature="e#386#387#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -69,7 +105,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/yaba/FR_179_11_05/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/yaba/FR_179_11_06/Voiture.java" />
+        <option value="$PROJECT_DIR$/src/com/yaba/FR_179_11_06/Main.java" />
       </list>
     </option>
   </component>
@@ -84,33 +121,41 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="FR_179_11_05" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FR_179_11_05" type="462c0819:PsiDirectoryNode" />
+              <item name="FR_179_11_06" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FR_179_11_06" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="FR_179_11_05" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FR_179_11_05" type="462c0819:PsiDirectoryNode" />
+              <item name="FR_179_11_06" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FR_179_11_06" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="FR_179_11_05" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FR_179_11_05" type="462c0819:PsiDirectoryNode" />
+              <item name="FR_179_11_06" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FR_179_11_06" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="FR_179_11_05" type="462c0819:PsiDirectoryNode" />
+              <item name="FR_179_11_06" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FR_179_11_06" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FR_179_11_06" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="FR_179_11_06" type="462c0819:PsiDirectoryNode" />
+              <item name="Voiture.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -129,8 +174,8 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.yaba.FR_179_11_05.Main" />
-      <module name="FR_179_11_05" />
+      <option name="MAIN_CLASS_NAME" value="com.yaba.FR_179_11_06.Main" />
+      <module name="FR_179_11_06" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -149,25 +194,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f9391956-24f4-46e3-a684-056aae1c46de" name="Default Changelist" comment="" />
-      <created>1557729514205</created>
+      <changelist id="df1f3785-d9f9-44cc-8ccd-03c8f3c7c709" name="Default Changelist" comment="" />
+      <created>1557730441937</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1557729514205</updated>
-      <workItem from="1557729515629" duration="925000" />
+      <updated>1557730441937</updated>
+      <workItem from="1557730443205" duration="1656000" />
     </task>
-    <task id="LOCAL-00001" summary="exemple de canaux&#10;souplesse du changement de canal">
-      <created>1557730304791</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1557730304791</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="925000" />
+    <option name="totallyTimeSpent" value="1656000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -180,7 +217,7 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
@@ -188,7 +225,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -207,18 +244,30 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="exemple de canaux&#10;souplesse du changement de canal" />
-    <option name="LAST_COMMIT_MESSAGE" value="exemple de canaux&#10;souplesse du changement de canal" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/toto.dat">
+    <entry file="file://$PROJECT_DIR$/voiture.ser">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_11_05/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_11_06/Voiture.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" selection-start-column="17" selection-end-column="29" />
+        <state relative-caret-position="85">
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+          <folding>
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_11_06/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
