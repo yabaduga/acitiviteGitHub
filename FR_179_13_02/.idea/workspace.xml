@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34e5a884-c1f5-4d2a-a3ae-e63c224144c1" name="Default Changelist" comment="">
+    <list default="true" id="5ae4a68f-5234-4231-afcb-f7a2e49d7748" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../FR_179_12_03/out/production/FR_179_12_03/com/yaba/FR_179_12_03/Main.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FR_179_12_04/out/production/FR_179_12_04/com/yaba/FR_179_12_04/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/FR_179_13_01/com/yaba/FR_179_13_01/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/FR_179_13_01/com/yaba/FR_179_13_01/Ressource.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/FR_179_13_01/com/yaba/FR_179_13_01/Tache.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_179_12_05/out/production/FR_179_13_01/com/yaba/FR_179_13_01/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_179_12_05/out/production/FR_179_13_01/com/yaba/FR_179_13_01/Ressource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FR_179_12_05/out/production/FR_179_13_01/com/yaba/FR_179_13_01/Tache.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FR_179_13_02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yaba/FR_179_13_02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yaba/FR_179_13_02/Traitement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FR_179_12_05/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FR_179_12_05/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mastermind" beforeDir="false" afterPath="$PROJECT_DIR$/../Mastermind" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mastermind2" beforeDir="false" afterPath="$PROJECT_DIR$/../Mastermind2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyMenu-I" beforeDir="false" afterPath="$PROJECT_DIR$/../MyMenu-I" afterDir="false" />
@@ -28,29 +39,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_13_02/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-17">
+              <caret line="5" column="18" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_13_01/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_13_02/Traitement.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="29" selection-start-column="17" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_13_01/Tache.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_13_01/Ressource.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="289">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -70,10 +72,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/yaba/FR_179_12_0/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/yaba/FR_179_13_01/Ressource.java" />
-        <option value="$PROJECT_DIR$/src/com/yaba/FR_179_13_01/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/yaba/FR_179_13_01/Tache.java" />
+        <option value="$PROJECT_DIR$/src/com/yaba/FR_179_13_02/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/yaba/FR_179_13_02/Traitement.java" />
       </list>
     </option>
   </component>
@@ -82,38 +82,36 @@
     <option name="width" value="1066" />
     <option name="height" value="1047" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="FR_179_12_05" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FR_179_12_05" type="462c0819:PsiDirectoryNode" />
+              <item name="FR_179_13_02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FR_179_13_02" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="FR_179_12_05" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FR_179_12_05" type="462c0819:PsiDirectoryNode" />
+              <item name="FR_179_13_02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FR_179_13_02" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="FR_179_12_05" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FR_179_12_05" type="462c0819:PsiDirectoryNode" />
+              <item name="FR_179_13_02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FR_179_13_02" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="FR_179_13_01" type="462c0819:PsiDirectoryNode" />
+              <item name="FR_179_13_02" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -124,7 +122,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.yaba.FR_179_13_01" />
+      <recent name="com.yaba.FR_179_13_02" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -139,23 +137,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yaba.FR_179_13_01.Main" />
-      <module name="FR_179_13_01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yaba.FR_179_13_01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.yaba.FR_179_12_0.Main" />
-      <module name="FR_179_13_01" />
+      <option name="MAIN_CLASS_NAME" value="com.yaba.FR_179_13_02.Main" />
+      <module name="FR_179_13_02" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -163,13 +148,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main (1)" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -178,25 +159,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="34e5a884-c1f5-4d2a-a3ae-e63c224144c1" name="Default Changelist" comment="" />
-      <created>1557777037606</created>
+      <changelist id="5ae4a68f-5234-4231-afcb-f7a2e49d7748" name="Default Changelist" comment="" />
+      <created>1557779588357</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1557777037606</updated>
-      <workItem from="1557777039257" duration="2536000" />
+      <updated>1557779588357</updated>
+      <workItem from="1557779589777" duration="897000" />
     </task>
-    <task id="LOCAL-00001" summary="partage des objets entre thread&#10;situation de conflit (variable et collection par exemple)">
-      <created>1557779418563</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1557779418563</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2536000" />
+    <option name="totallyTimeSpent" value="897000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -209,7 +182,7 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
@@ -217,7 +190,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.58829904" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -236,36 +209,18 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="partage des objets entre thread&#10;situation de conflit (variable et collection par exemple)" />
-    <option name="LAST_COMMIT_MESSAGE" value="partage des objets entre thread&#10;situation de conflit (variable et collection par exemple)" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Runnable.java">
+    <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_13_02/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+        <state relative-caret-position="-17">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_13_01/Ressource.java">
+    <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_13_02/Traitement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_13_01/Tache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_13_01/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="29" selection-start-column="17" selection-end-column="29" />
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
