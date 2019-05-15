@@ -12,35 +12,25 @@ public class Main {
         Set <Integer> tab3 = new HashSet <>();
         Set <Integer> tab4 = new HashSet <>();
 
-        Thread t1 = new Thread(new Runnable() {
-            @Override
+        Thread t1 = new Thread(() -> {
 
-            public void run() {
-
-                for (int i = 0; i < 100; i++)
-                    tab1.add(cpt.retournUniqueIndex());
-            }
-        });
-
-        Thread t2 = new Thread(new Runnable() {
-         public void run(){
             for (int i = 0; i < 100; i++)
-            tab2.add(cpt.retournUniqueIndex());
-            }
+                tab1.add(cpt.retournUniqueIndex());
         });
 
-        Thread t3 = new Thread(new Runnable() {
-            public void run() {
-                for (int i = 0; i < 100; i++)
-                    tab3.add(cpt.retournUniqueIndex());
-            }
+        Thread t2 = new Thread(() -> {
+           for (int i = 0; i < 100; i++)
+           tab2.add(cpt.retournUniqueIndex());
+           });
+
+        Thread t3 = new Thread(() -> {
+            for (int i = 0; i < 100; i++)
+                tab3.add(cpt.retournUniqueIndex());
         });
 
-        Thread t4 = new  Thread(new Runnable() {
-            public void run() {
-                for (int i = 0; i < 100; i++)
-                    tab4.add(cpt.retournUniqueIndex());
-            }
+        Thread t4 = new  Thread(() -> {
+            for (int i = 0; i < 100; i++)
+                tab4.add(cpt.retournUniqueIndex());
         });
 
 
