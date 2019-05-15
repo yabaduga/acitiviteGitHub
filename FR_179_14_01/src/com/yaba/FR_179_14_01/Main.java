@@ -8,6 +8,7 @@ public class Main {
         Thread [] lesThreads = new Thread[20];
         for (int i=0;i<20;i++){
             lesThreads[i]=new Thread(()-> {
+
                 String str=res.lire();
             });
         }
