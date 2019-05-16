@@ -10,8 +10,12 @@ class Producteur implements Runnable{
    @Override
     public void run() {
        for (int i=0;i<1000;i++){
-          boolean ret = data.add(new Integer(i));
-          System.out.println("Placement de la data " + ret);
+           try {
+               data.put(new Integer(i));
+           } catch (InterruptedException e) {
+               e.printStackTrace();
+           }
+           System.out.println("Placement de la data " );
 
        }
 
