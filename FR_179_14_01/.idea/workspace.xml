@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c80fddfb-7d6b-4c45-a877-98bbfc8f74c8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/yaba/FR_179_14_01/MainPop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mastermind" beforeDir="false" afterPath="$PROJECT_DIR$/../Mastermind" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mastermind2" beforeDir="false" afterPath="$PROJECT_DIR$/../Mastermind2" afterDir="false" />
@@ -38,7 +37,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_14_01/Ressource.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="459">
-              <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+              <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -49,8 +48,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_14_01/MainPop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="25" column="47" lean-forward="true" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+            <state relative-caret-position="357">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
               <folding>
                 <element signature="e#237#245#0" expanded="true" />
               </folding>
@@ -184,7 +183,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1557927082692</updated>
-      <workItem from="1557927084027" duration="2053000" />
+      <workItem from="1557927084027" duration="4115000" />
     </task>
     <task id="LOCAL-00001" summary="verrou&#10;Lock et les différents modes d'utilisation">
       <created>1557927868868</created>
@@ -200,15 +199,21 @@
       <option name="project" value="LOCAL" />
       <updated>1557928573191</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ajout d'un méthode d'illustration du push et du pop sur un Stack">
+      <created>1557929393588</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1557929393588</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2053000" />
+    <option name="totallyTimeSpent" value="4115000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -224,7 +229,7 @@
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
@@ -247,7 +252,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="verrou&#10;Lock et les différents modes d'utilisation" />
     <MESSAGE value="lock et modification&#10;validation par sortie des threads&#10;utilisation du push sur Stack pour afficher une sortie" />
-    <option name="LAST_COMMIT_MESSAGE" value="lock et modification&#10;validation par sortie des threads&#10;utilisation du push sur Stack pour afficher une sortie" />
+    <MESSAGE value="ajout d'un méthode d'illustration du push et du pop sur un Stack" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout d'un méthode d'illustration du push et du pop sur un Stack" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_14_01/Main.java">
@@ -260,7 +266,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_14_01/Ressource.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
-          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -269,8 +275,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_14_01/MainPop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="25" column="47" lean-forward="true" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
           <folding>
             <element signature="e#237#245#0" expanded="true" />
           </folding>
