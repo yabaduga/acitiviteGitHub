@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf1f10a0-ba7b-4ad1-a7ef-fdf3f6cef682" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FR_179_14_03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yaba/FR_179_14_03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled104.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FR_179_14_02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FR_179_14_02/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mastermind" beforeDir="false" afterPath="$PROJECT_DIR$/../Mastermind" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mastermind2" beforeDir="false" afterPath="$PROJECT_DIR$/../Mastermind2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyMenu-I" beforeDir="false" afterPath="$PROJECT_DIR$/../MyMenu-I" afterDir="false" />
@@ -37,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_14_03/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" column="21" lean-forward="true" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+            <state>
+              <caret column="17" selection-start-column="17" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -55,13 +45,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/yaba/FR_179_14_03/Main.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
       </list>
     </option>
   </component>
@@ -102,6 +85,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -145,12 +129,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558034541534</updated>
-      <workItem from="1558034543682" duration="297000" />
+      <workItem from="1558034543682" duration="1112000" />
     </task>
+    <task id="LOCAL-00001" summary="Utilisation d'un Semaphore et gestion des pauses, release, ..">
+      <created>1558035087118</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558035087118</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="297000" />
+    <option name="totallyTimeSpent" value="1112000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -171,7 +163,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24702059" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24702059" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -190,11 +182,22 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Utilisation d'un Semaphore et gestion des pauses, release, .." />
+    <option name="LAST_COMMIT_MESSAGE" value="Utilisation d'un Semaphore et gestion des pauses, release, .." />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_14_03/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="21" lean-forward="true" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
