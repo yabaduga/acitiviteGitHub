@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8222cf89-dfd2-49f9-8ff5-cf6d28e03096" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FR_179_14_04.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/FR_179_14_04/com/yaba/FR_179_14_04/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yaba/FR_179_14_04/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yaba/FR_179_14_04/MonThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yaba/FR_179_14_04/SommeMatrice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yaba/FR_179_14_04/ThreadPoolExemple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FR_179_14_03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FR_179_14_03/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mastermind" beforeDir="false" afterPath="$PROJECT_DIR$/../Mastermind" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mastermind2" beforeDir="false" afterPath="$PROJECT_DIR$/../Mastermind2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyMenu-I" beforeDir="false" afterPath="$PROJECT_DIR$/../MyMenu-I" afterDir="false" />
@@ -150,6 +137,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.yaba.FR_179_14_04" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -207,12 +199,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558035656079</updated>
-      <workItem from="1558035657353" duration="1889000" />
+      <workItem from="1558035657353" duration="2627000" />
     </task>
+    <task id="LOCAL-00001" summary="traitements simultannés&#10;FoinkJoinTask&#10;interface Executor&#10;ThreadPoolExecutor&#10;&#10;...">
+      <created>1558037594653</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558037594653</updated>
+    </task>
+    <task id="LOCAL-00002" summary="traitements simultannés&#10;FoinkJoinTask&#10;interface Executor&#10;ThreadPoolExecutor&#10;&#10;...">
+      <created>1558037660476</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1558037660476</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1889000" />
+    <option name="totallyTimeSpent" value="2627000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -227,12 +234,12 @@
       <window_info anchor="bottom" id="Messages" weight="0.18093175" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.53412783" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.53412783" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -250,6 +257,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="traitements simultannés&#10;FoinkJoinTask&#10;interface Executor&#10;ThreadPoolExecutor&#10;&#10;..." />
+    <option name="LAST_COMMIT_MESSAGE" value="traitements simultannés&#10;FoinkJoinTask&#10;interface Executor&#10;ThreadPoolExecutor&#10;&#10;..." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/yaba/FR_179_14_04/SommeMatrice.java">
