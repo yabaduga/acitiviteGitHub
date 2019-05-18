@@ -30,7 +30,7 @@ public class Main {
             String nom = rs.getString("LastName");
             String prenom = rs.getString("FirstName");
             String age = rs.getString("Age");
-            System.out.println("Résultats : " + nom + " "+prenom + " ayant "+ age + " ans");
+            System.out.println("Résultats : " + nom + " "+prenom + ", "+ age + " ans");
         }
         st.close();
     }
