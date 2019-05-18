@@ -16,6 +16,12 @@ public class Main {
 
             while (rs.next()) {
                 String nom = rs.getString("LastName");
+               String prenom = rs.getString("FirstName");
+               String age = rs.getString("Age");
+                System.out.println("le nom est : " + nom);
+           System.out.println("le prénom est : " + prenom);
+           System.out.println("l'age est de : " + age + " ans");
+           System.out.println();
             }
             st.close();
             cxt.close();
