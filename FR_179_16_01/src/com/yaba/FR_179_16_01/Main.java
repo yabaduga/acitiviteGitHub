@@ -14,7 +14,7 @@ public class Main {
       //  Locale loc4 = new Locale.FRANCE;
 
       //  System.out.println(DateFormat.getDateInstance().format(new Date()));
-        System.out.println(DateFormat.getDateInstance(0,Locale.ENGLISH).format(new Date()));
+        System.out.println(DateFormat.getDateInstance(0,Locale.FRENCH).format(new Date()));
 
 
     }
