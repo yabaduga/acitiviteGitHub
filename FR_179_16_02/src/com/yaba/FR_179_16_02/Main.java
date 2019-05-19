@@ -9,7 +9,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Bonjour");
         // remplacé par
-        Locale loc = new Locale("fr","FR");
+        Locale loc = new Locale("de","DE");
         ResourceBundle msg= ResourceBundle.getBundle("meschaines",loc);
         System.out.println(msg.getString("bonjour"));
     }
