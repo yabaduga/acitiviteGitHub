@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f45454a6-86b1-4c6d-9f7a-4ca0afeedd6f" name="Default Changelist" comment="">
+    <list default="true" id="ee48a570-2067-48ae-bb76-2adb7b689304" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JFrameProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yaba/Swing/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yaba/Swing/MyFrame.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yaba/Swing/MyFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwingNB/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwingNB/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwingNB/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwingNB/src/com/yaba/Swing/MyFrame.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwingNB/src/com/yaba/Swing/MyFrame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Core/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Core/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Core/.idea/modules.xml" beforeDir="false" />
@@ -12,6 +29,7 @@
       <change beforePath="$PROJECT_DIR$/../Core/src/main/java/entity/App1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../FR_179_16_03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FR_179_16_03/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../FR_179_16_03/src/com/yaba/FR_179_16_03/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FR_179_16_03/src/com/yaba/FR_179_16_03/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstSwingApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstSwingApp/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mastermind" beforeDir="false" afterPath="$PROJECT_DIR$/../Mastermind" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mastermind2" beforeDir="false" afterPath="$PROJECT_DIR$/../Mastermind2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyMenu-I" beforeDir="false" afterPath="$PROJECT_DIR$/../MyMenu-I" afterDir="false" />
@@ -33,27 +51,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/yaba/dvdstore/Main.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/yaba/Swing/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="187">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/yaba/Swing/MyFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="16" column="61" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/yaba/dvdstore/MyFrame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#138#139#0" expanded="true" />
-                <element signature="e#170#171#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/com/yaba/Swing/MyFrame.form">
+          <provider selected="true" editor-type-id="ui-designer" />
         </entry>
       </file>
     </leaf>
@@ -71,9 +92,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/MyFrame.java" />
-        <option value="$PROJECT_DIR$/src/com/yaba/dvdstore/MyFrame.java" />
-        <option value="$PROJECT_DIR$/src/com/yaba/dvdstore/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/yaba/Swing/MyFrame.form" />
+        <option value="$PROJECT_DIR$/src/com/yaba/Swing/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/yaba/Swing/MyFrame.java" />
       </list>
     </option>
   </component>
@@ -89,82 +110,36 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="FirstSwingApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstSwingApp" type="462c0819:PsiDirectoryNode" />
+              <item name="JFrameProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JFrameProject" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="FirstSwingApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstSwingApp" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FirstSwingApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstSwingApp" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FirstSwingApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstSwingApp" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="FirstSwingApp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FirstSwingApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstSwingApp" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="FirstSwingApp" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FirstSwingApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstSwingApp" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="FirstSwingApp" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="yaba" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FirstSwingApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstSwingApp" type="462c0819:PsiDirectoryNode" />
+              <item name="JFrameProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JFrameProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="FirstSwingApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstSwingApp" type="462c0819:PsiDirectoryNode" />
+              <item name="JFrameProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JFrameProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dvdstore" type="462c0819:PsiDirectoryNode" />
+              <item name="Swing" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="ChangesTree.GroupingKeys" value="module&#10;directory" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Yabaduga\mon_projet\FirstSwingApp\out\production\FirstSwingApp\com\yaba\dvdstore" />
-      <recent name="C:\Users\Yabaduga\mon_projet\FirstSwingApp\src\com\yaba\dvdstore" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -178,10 +153,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MyFrame">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.yaba.dvdstore.Main" />
-      <module name="FirstSwingApp" />
+      <option name="MAIN_CLASS_NAME" value="com.yaba.Swing.Main" />
+      <module name="JFrameProject" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -189,8 +164,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MyFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yaba.Swing.MyFrame" />
+      <module name="JFrameProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yaba.Swing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.MyFrame" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyFrame" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -200,32 +193,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f45454a6-86b1-4c6d-9f7a-4ca0afeedd6f" name="Default Changelist" comment="" />
-      <created>1559208885042</created>
+      <changelist id="ee48a570-2067-48ae-bb76-2adb7b689304" name="Default Changelist" comment="" />
+      <created>1559238580601</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1559208885042</updated>
-      <workItem from="1559208886633" duration="1851000" />
+      <updated>1559238580601</updated>
+      <workItem from="1559238582098" duration="1765000" />
     </task>
-    <task id="LOCAL-00001" summary="première feneetre avec JFrame&#10;//skillsuccess.com">
-      <created>1559209602465</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1559209602465</updated>
-    </task>
-    <task id="LOCAL-00002" summary="première feneetre avec JFrame&#10;//skillsuccess.com&#10;appel composants">
-      <created>1559210671163</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1559210671163</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1851000" />
+    <option name="totallyTimeSpent" value="1765000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -236,12 +214,12 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -265,28 +243,24 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="première feneetre avec JFrame&#10;//skillsuccess.com" />
-    <MESSAGE value="première feneetre avec JFrame&#10;//skillsuccess.com&#10;appel composants" />
-    <option name="LAST_COMMIT_MESSAGE" value="première feneetre avec JFrame&#10;//skillsuccess.com&#10;appel composants" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/yaba/dvdstore/MyFrame.java">
+    <entry file="file://$PROJECT_DIR$/src/com/yaba/Swing/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#170#171#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/yaba/dvdstore/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/yaba/Swing/MyFrame.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yaba/Swing/MyFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="112">
+          <caret line="16" column="61" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

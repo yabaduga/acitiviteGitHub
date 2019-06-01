@@ -1,6 +1,7 @@
 package com.yaba.FR_179_16_03;
 
 import java.text.DateFormat;
+import java.text.MessageFormat;
 import java.text.NumberFormat;
 import java.util.Date;
 import java.util.Locale;
@@ -37,5 +38,11 @@ public class Main {
         Date aujourdhui = new Date();
         DateFormat df=DateFormat.getDateInstance(DateFormat.DEFAULT, loc3);
         System.out.println(df.format(aujourdhui));
+
+        MessageFormat format = new MessageFormat("");
+        format.setLocale(loc);
+        format.applyPattern("nous sommes le  {0, date, short}");
+        String sortie = format.format(new Object[] {new Date()});
+        System.out.println(sortie);
     }
 }
