@@ -10,23 +10,12 @@ public class Main {
         JFrame frame = new JFrame( "ma fenetre" );
         frame.setLayout( new FlowLayout(  ) );
 
-        JTabbedPane jTabbedPane = new JTabbedPane();
-        JPanel red = new JPanel();
-        red.setBackground( Color.red );
-        red.setPreferredSize( new Dimension( 300, 100 ) );
-        jTabbedPane.addTab( "Red Tab", red );
+        JInternalFrame internalFrame = new JInternalFrame( "My internal Frame" );
+        internalFrame.add(new JButton( "OKButon" ));
+        internalFrame.setPreferredSize( new Dimension( 200,100 ) );
 
-        JPanel yellow = new JPanel();
-        yellow.setBackground( Color.yellow );
-        yellow.setPreferredSize( new Dimension( 300, 100 ) );
-        jTabbedPane.addTab( "Yellow Tab", yellow );
-
-        JPanel white = new JPanel();
-        white.setBackground( Color.white );
-        white.setPreferredSize( new Dimension( 300, 100 ) );
-        jTabbedPane.addTab( "white Tab", white );
-
-        frame.add( jTabbedPane );
+        frame.add(internalFrame);
+        internalFrame.setVisible( true );
 
         frame.setSize( 600,400 );
         frame.setLocationRelativeTo( null );
