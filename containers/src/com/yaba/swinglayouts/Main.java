@@ -10,21 +10,23 @@ public class Main {
         JFrame frame = new JFrame( "ma fenetre" );
         frame.setLayout( new FlowLayout(  ) );
 
-       JSplitPane jSplitPane = new JSplitPane( JSplitPane.HORIZONTAL_SPLIT );
-       JPanel leftPanel = new JPanel(  );
-       leftPanel.setBackground( Color.cyan );
-       JPanel rightPanel= new JPanel(  );
-       rightPanel.setBackground( Color.gray );
+        JTabbedPane jTabbedPane = new JTabbedPane();
+        JPanel red = new JPanel();
+        red.setBackground( Color.red );
+        red.setPreferredSize( new Dimension( 300, 100 ) );
+        jTabbedPane.addTab( "Red Tab", red );
 
-       leftPanel.setPreferredSize( new Dimension( 200,200 ) );
-       rightPanel.setPreferredSize( new Dimension( 200,200 ) );
+        JPanel yellow = new JPanel();
+        yellow.setBackground( Color.yellow );
+        yellow.setPreferredSize( new Dimension( 300, 100 ) );
+        jTabbedPane.addTab( "Yellow Tab", yellow );
 
-       jSplitPane.setLeftComponent( leftPanel );
-       jSplitPane.setRightComponent( rightPanel );
+        JPanel white = new JPanel();
+        white.setBackground( Color.white );
+        white.setPreferredSize( new Dimension( 300, 100 ) );
+        jTabbedPane.addTab( "white Tab", white );
 
-       frame.add(jSplitPane);
-
-
+        frame.add( jTabbedPane );
 
         frame.setSize( 600,400 );
         frame.setLocationRelativeTo( null );
