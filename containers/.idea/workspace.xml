@@ -2,56 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d3c51f5-a10f-451d-9b6c-7429cc5b81cd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../FirstFrameIDEA/src/com/yaba/Swing/MaFenetre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FirstFrameIDEA/src/com/yaba/Swing/Mafenetre.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JFrameProject/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JFrameProject/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JFrameProject/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JFrameProject/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JFrameProject/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JFrameProject/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JFrameProject/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JFrameProject/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JFrameProject/JFrameProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JFrameProject/src/com/yaba/Swing/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JFrameProject/src/com/yaba/Swing/MyFrame.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JFrameProject/src/com/yaba/Swing/MyFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SwingNB/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SwingNB/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SwingNB/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SwingNB/src/com/yaba/Swing/MyFrame.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SwingNB/src/com/yaba/Swing/MyFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/containers.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yaba/swinglayouts/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jeixrecherche Projet3/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/Core.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/Core.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/entity/App1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FR_179_16_03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FR_179_16_03/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FR_179_16_03/src/com/yaba/FR_179_16_03/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FR_179_16_03/src/com/yaba/FR_179_16_03/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstSwingApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstSwingApp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Framish/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Framish/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mastermind" beforeDir="false" afterPath="$PROJECT_DIR$/../Mastermind" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mastermind2" beforeDir="false" afterPath="$PROJECT_DIR$/../Mastermind2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyMenu-I" beforeDir="false" afterPath="$PROJECT_DIR$/../MyMenu-I" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyMenu-III" beforeDir="false" afterPath="$PROJECT_DIR$/../MyMenu-III" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyMenu-V" beforeDir="false" afterPath="$PROJECT_DIR$/../MyMenu-V" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jeixrecherche Projet3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jeixrecherche Projet3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/yaba/swinglayouts/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yaba/swinglayouts/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mergebranch" beforeDir="false" afterPath="$PROJECT_DIR$/../mergebranch" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../openclassromms-Java-DAprojet-3" beforeDir="false" afterPath="$PROJECT_DIR$/../openclassromms-Java-DAprojet-3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rechercheandmind/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rechercheandmind/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/yaba/swinglayouts/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+            <state relative-caret-position="442">
+              <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -184,12 +143,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559369258073</updated>
-      <workItem from="1559369259637" duration="1269000" />
+      <workItem from="1559369259637" duration="2296000" />
     </task>
+    <task id="LOCAL-00001" summary="panel">
+      <created>1559371668720</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1559371668721</updated>
+    </task>
+    <task id="LOCAL-00002" summary="JSplitPane">
+      <created>1559371974225</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1559371974225</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1269000" />
+    <option name="totallyTimeSpent" value="2296000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -229,6 +203,11 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="panel" />
+    <MESSAGE value="JSplitPane" />
+    <option name="LAST_COMMIT_MESSAGE" value="JSplitPane" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/yaba/swinglayouts/Containers.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -239,8 +218,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/yaba/swinglayouts/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+        <state relative-caret-position="442">
+          <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

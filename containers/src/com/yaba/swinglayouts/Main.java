@@ -24,6 +24,8 @@ public class Main {
 
        frame.add(jSplitPane);
 
+
+
         frame.setSize( 600,400 );
         frame.setLocationRelativeTo( null );
         frame.setDefaultCloseOperation( WindowConstants.EXIT_ON_CLOSE );
