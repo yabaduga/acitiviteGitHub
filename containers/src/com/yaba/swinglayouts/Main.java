@@ -10,24 +10,19 @@ public class Main {
         JFrame frame = new JFrame( "ma fenetre" );
         frame.setLayout( new FlowLayout(  ) );
 
-        JPanel jPanell = new JPanel(  );
-        jPanell.add(new JButton( "Mon Bouton" ));
-        jPanell.add(new JButton( "Ton Bouton" ));
-        jPanell.add(new JButton( "Son Bouton" ));
+       JSplitPane jSplitPane = new JSplitPane( JSplitPane.HORIZONTAL_SPLIT );
+       JPanel leftPanel = new JPanel(  );
+       leftPanel.setBackground( Color.cyan );
+       JPanel rightPanel= new JPanel(  );
+       rightPanel.setBackground( Color.gray );
 
-        jPanell.setSize( new Dimension( 100,100 ) );
-        jPanell.setBackground( Color.gray );
-        frame.add(jPanell);
+       leftPanel.setPreferredSize( new Dimension( 200,200 ) );
+       rightPanel.setPreferredSize( new Dimension( 200,200 ) );
 
-        JTextArea jTextArea=new JTextArea( 10,10 );
-        jTextArea.setLineWrap( true );
-       // jTextArea.setBackground( Color.BLACK );
-        JScrollPane jScrollPane = new JScrollPane(jTextArea);
-        jScrollPane.setPreferredSize(new Dimension( 200,200 ));
-        jScrollPane.setVerticalScrollBarPolicy( ScrollPaneConstants.VERTICAL_SCROLLBAR_ALWAYS);
+       jSplitPane.setLeftComponent( leftPanel );
+       jSplitPane.setRightComponent( rightPanel );
 
-        frame.add(jScrollPane);
-
+       frame.add(jSplitPane);
 
         frame.setSize( 600,400 );
         frame.setLocationRelativeTo( null );
