@@ -8,6 +8,7 @@ public class MainFrame extends JFrame {
 
     private JTextArea welcomeTA;
     private JPanel mainPanel;
+    private JTextArea textArea2;
 
     public MainFrame() {
         setSize( 500, 500 );
@@ -23,5 +24,14 @@ public class MainFrame extends JFrame {
 
     public JTextArea getWelcomeTA() {
         return welcomeTA;
+    }
+
+
+    public JTextArea getTextArea2() {
+        return textArea2;
+    }
+
+    private void createUIComponents() {
+        // TODO: place custom component creation code here
     }
 }

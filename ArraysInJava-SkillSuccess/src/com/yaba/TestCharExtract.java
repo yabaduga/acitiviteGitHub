@@ -34,10 +34,9 @@ public class TestCharExtract {
                 }
 
             }
-
-if (myArray[0]==CombiArray[0] && myArray[1]==CombiArray[1] && myArray[2]==CombiArray[2] && myArray[3]==CombiArray[3]){
+for (int w=0;w<CombiArray.length;w++){if (myArray[w]==CombiArray[w] ){
     vWin=1;
-}
+}}
        }
        while (vWin !=1);
         System.out.println( "Bravo, la combinaison était bien : " + Arrays.toString(CombiArray) );

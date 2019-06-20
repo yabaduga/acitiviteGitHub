@@ -12,6 +12,7 @@ public class MainFrameController {
     private JButton welcomeBtn;
     private JTextArea welcomeTA;
     private MainFrame mainFrame;
+    private JTextArea textArea2;
 
 
     public MainFrameController() {
@@ -29,12 +30,15 @@ public class MainFrameController {
         mainFrame = new MainFrame();
         welcomeBtn = mainFrame.getWelcomeBtn();
         welcomeTA = mainFrame.getWelcomeTA();
+        textArea2 = mainFrame.getTextArea2();
+
     }
 
     private void initListeners() {
         welcomeBtn.addActionListener( new WelcomeBtnListener() );
 
     }
+
 
     private class WelcomeBtnListener implements ActionListener {
         /**
@@ -43,7 +47,9 @@ public class MainFrameController {
          * @param e
          */
         public void actionPerformed(ActionEvent e) {
-            welcomeTA.append( "Welcome IntelliJ IDEA Swing Creator \n" );
+           // welcomeTA.append( "Welcome IntelliJ IDEA Swing Creator \n" );
+            textArea2.append( welcomeTA.getText() );
+
 
         }
     }
